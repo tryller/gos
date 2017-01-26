@@ -24,11 +24,6 @@ if Ignite ~= nil then
 menu.Misc:Boolean("Autoignite", "Auto Ignite", true)
 end
 
-menu:Menu("Drawings", "Drawings")
-menu.Drawings:Boolean("Q", "Draw Q Range", true)
-menu.Drawings:Boolean("W", "Draw W Range", true)
-menu.Drawings:Boolean("E", "Draw E Range", true)
-
 menu:Menu("Interrupt", "Interrupt")
 menu.Interrupt:Menu("SupportedSpells", "Supported Spells")
 menu.Interrupt.SupportedSpells:Boolean("Q", "Use Q", true)
@@ -55,13 +50,6 @@ OnProcessSpell(function(unit, spell)
         end
       end
     end
-end)
-  
-OnDraw(function(myHero)
-local pos = GetOrigin(myHero)
-if menu.Drawings.Q:Value() then DrawCircle(pos,365,1,25,GoS.Pink) end
-if menu.Drawings.W:Value() then DrawCircle(pos,650,1,25,GoS.Yellow) end
-if menu.Drawings.E:Value() then DrawCircle(pos,575,1,25,GoS.Blue) end
 end)
 
 local target1 = TargetSelector(650,TARGET_LESS_CAST_PRIORITY,DAMAGE_MAGIC,true,false)
