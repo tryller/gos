@@ -9,7 +9,7 @@ menu:Menu("Combo", "Combo")
 menu.Combo:Boolean("Q", "Use Q", true)
 menu.Combo:Boolean("W", "Use W", true)
 menu.Combo:Boolean("E", "Use E", true)
-menu.Combo:Boolean("R", "Use R", true)
+menu.Combo:Boolean("R", "Use R", false)
 menu.Combo:DropDown("RMode", "R Mode", 1, {"Logic", "to mouse"})
 
 menu:Menu("Harass", "Harass")
