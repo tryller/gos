@@ -1,0 +1,10282 @@
+return {
+	["IOWKatarina"] = {
+		["f"] = {
+			["dmgpred"] = {
+				["value"] = 1,
+			},
+		},
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["c"] = {
+			["sticky"] = {
+				["value"] = false,
+			},
+			["ts"] = {
+				["focus"] = false,
+				["mode"] = 1,
+			},
+			["wtt"] = {
+				["value"] = true,
+			},
+			["Humanizer"] = {
+				["value"] = true,
+			},
+		},
+		["d"] = {
+			["ecirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 0,
+					["b"] = 0,
+					["a"] = 155,
+				},
+			},
+			["scirclequal"] = {
+				["value"] = 4,
+			},
+			["scirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 255,
+					["b"] = 255,
+					["a"] = 255,
+				},
+			},
+			["m"] = {
+			},
+			["sdrawcircle"] = {
+				["value"] = false,
+			},
+			["ecirclequal"] = {
+				["value"] = 4,
+			},
+			["edrawcircle"] = {
+				["value"] = false,
+			},
+			["lh"] = {
+				["value"] = false,
+			},
+			["s"] = {
+			},
+			["e"] = {
+			},
+		},
+		["s"] = {
+			["stick"] = {
+				["value"] = 0,
+			},
+			["stop"] = {
+				["value"] = 65,
+			},
+		},
+	},
+	["IOWSejuani"] = {
+		["f"] = {
+			["dmgpred"] = {
+				["value"] = 1,
+			},
+		},
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["s"] = {
+			["stick"] = {
+				["value"] = 300,
+			},
+			["stop"] = {
+				["value"] = 80,
+			},
+		},
+		["d"] = {
+			["ecirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 0,
+					["b"] = 0,
+					["a"] = 155,
+				},
+			},
+			["scirclequal"] = {
+				["value"] = 4,
+			},
+			["scirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 255,
+					["b"] = 255,
+					["a"] = 255,
+				},
+			},
+			["m"] = {
+			},
+			["sdrawcircle"] = {
+				["value"] = false,
+			},
+			["ecirclequal"] = {
+				["value"] = 4,
+			},
+			["edrawcircle"] = {
+				["value"] = false,
+			},
+			["lh"] = {
+				["value"] = false,
+			},
+			["s"] = {
+			},
+			["e"] = {
+			},
+		},
+		["c"] = {
+			["sticky"] = {
+				["value"] = false,
+			},
+			["ts"] = {
+				["focus"] = false,
+				["mode"] = 1,
+			},
+			["wtt"] = {
+				["value"] = true,
+			},
+			["Humanizer"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["Katarina"] = {
+		["KS"] = {
+			["Q"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+		},
+		["Combo"] = {
+			["R"] = {
+				["value"] = true,
+			},
+			["W"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["CSR"] = {
+		["LoadHeroSkinChanger"] = {
+			["value"] = true,
+		},
+		["LoadHumanizer"] = {
+			["value"] = false,
+		},
+		["Prediction"] = {
+			["value"] = 1,
+		},
+		["info"] = {
+		},
+		["HeroSkinChanger"] = {
+			["Language"] = {
+				["value"] = 1,
+			},
+		},
+		["Katarina"] = {
+			["Misc"] = {
+				["Block"] = {
+					["value"] = true,
+				},
+			},
+			["Harass"] = {
+				["W"] = {
+					["value"] = false,
+				},
+				["Q"] = {
+					["value"] = true,
+				},
+				["E"] = {
+					["value"] = false,
+				},
+			},
+			["Drawings"] = {
+				["W"] = {
+					["value"] = false,
+				},
+				["Q"] = {
+					["value"] = false,
+				},
+				["E"] = {
+					["value"] = false,
+				},
+			},
+			["lvl"] = {
+				["Enabled"] = {
+					["value"] = true,
+				},
+				["Seq"] = {
+					["value"] = 1,
+				},
+				["lvl1"] = {
+					["value"] = true,
+				},
+			},
+			["Combo"] = {
+				["RMode"] = {
+					["value"] = 1,
+				},
+				["W"] = {
+					["value"] = true,
+				},
+				["Q"] = {
+					["value"] = true,
+				},
+				["Tower"] = {
+					["value"] = true,
+				},
+				["Daggers"] = {
+					["value"] = false,
+				},
+				["E"] = {
+					["value"] = true,
+				},
+			},
+			["Killsteal"] = {
+				["Cancel"] = {
+					["value"] = true,
+				},
+				["Q"] = {
+					["value"] = true,
+				},
+				["R"] = {
+					["value"] = false,
+				},
+				["Tower"] = {
+					["value"] = true,
+				},
+				["E"] = {
+					["value"] = true,
+				},
+			},
+		},
+		["Activator"] = {
+			["Potions"] = {
+				["RefillablePotion"] = {
+					["value"] = true,
+				},
+				["Biscuit"] = {
+					["value"] = true,
+				},
+				["empty"] = {
+				},
+				["CorruptingPotion"] = {
+					["value"] = true,
+				},
+				["HPPercent"] = {
+					["value"] = 20,
+				},
+				["Enabled"] = {
+					["value"] = true,
+				},
+				["Health"] = {
+					["value"] = true,
+				},
+				["HuntersPotion"] = {
+					["value"] = true,
+				},
+			},
+			["Utilities"] = {
+				["BlueTrinket"] = {
+					["Exploit"] = {
+						["value"] = false,
+					},
+					["Enabled"] = {
+						["value"] = true,
+					},
+					["info"] = {
+					},
+				},
+				["AntiStealth"] = {
+					["Enabled"] = {
+						["value"] = true,
+					},
+				},
+			},
+			["Defensive"] = {
+				["Locket"] = {
+					["Mode"] = {
+						["value"] = 1,
+					},
+					["HPPercent"] = {
+						["value"] = 50,
+					},
+					["UseOnBrand"] = {
+						["value"] = true,
+					},
+					["DMGPercent"] = {
+						["value"] = 50,
+					},
+					["empty"] = {
+					},
+					["UseOnKatarina"] = {
+						["value"] = true,
+					},
+					["UseOnDarius"] = {
+						["value"] = true,
+					},
+					["Enabled"] = {
+						["value"] = true,
+					},
+					["UseOnAhri"] = {
+						["value"] = true,
+					},
+					["UseOnSivir"] = {
+						["value"] = true,
+					},
+				},
+				["Randuins"] = {
+					["Enemies"] = {
+						["value"] = 2,
+					},
+					["Mode"] = {
+						["value"] = 2,
+					},
+					["Enabled"] = {
+						["value"] = true,
+					},
+				},
+				["Seraphs"] = {
+					["DMGPercent"] = {
+						["value"] = 20,
+					},
+					["Enabled"] = {
+						["value"] = true,
+					},
+					["Mode"] = {
+						["value"] = 2,
+					},
+					["HPPercent"] = {
+						["value"] = 20,
+					},
+				},
+				["FaceOfTheMountain"] = {
+					["Mode"] = {
+						["value"] = 1,
+					},
+					["HPPercent"] = {
+						["value"] = 50,
+					},
+					["UseOnBrand"] = {
+						["value"] = true,
+					},
+					["DMGPercent"] = {
+						["value"] = 50,
+					},
+					["empty"] = {
+					},
+					["UseOnKatarina"] = {
+						["value"] = true,
+					},
+					["UseOnDarius"] = {
+						["value"] = true,
+					},
+					["Enabled"] = {
+						["value"] = true,
+					},
+					["UseOnAhri"] = {
+						["value"] = true,
+					},
+					["UseOnSivir"] = {
+						["value"] = true,
+					},
+				},
+				["Talisman"] = {
+					["HPPercent"] = {
+						["value"] = 50,
+					},
+					["Enabled"] = {
+						["value"] = true,
+					},
+					["Mode"] = {
+						["value"] = 2,
+					},
+					["EHPPercent"] = {
+						["value"] = 50,
+					},
+				},
+			},
+			["Offensive"] = {
+				["Tiamat"] = {
+					["Enabled"] = {
+						["value"] = true,
+					},
+				},
+				["FrostQueen"] = {
+					["HPPercent"] = {
+						["value"] = 75,
+					},
+					["Enabled"] = {
+						["value"] = true,
+					},
+					["EHPPercent"] = {
+						["value"] = 60,
+					},
+				},
+				["Youmuu"] = {
+					["Enabled"] = {
+						["value"] = true,
+					},
+				},
+				["HextechGLP"] = {
+					["Enabled"] = {
+						["value"] = true,
+					},
+					["EHPPercent"] = {
+						["value"] = 70,
+					},
+				},
+				["TitanicHydra"] = {
+					["Enabled"] = {
+						["value"] = true,
+					},
+				},
+				["Hydra"] = {
+					["Enabled"] = {
+						["value"] = true,
+					},
+				},
+				["Hextech"] = {
+					["Enabled"] = {
+						["value"] = true,
+					},
+					["EHPPercent"] = {
+						["value"] = 70,
+					},
+				},
+				["Botrk"] = {
+					["HPPercent"] = {
+						["value"] = 50,
+					},
+					["Enabled"] = {
+						["value"] = true,
+					},
+					["EHPPercent"] = {
+						["value"] = 50,
+					},
+				},
+				["Cutlass"] = {
+					["HPPercent"] = {
+						["value"] = 50,
+					},
+					["Enabled"] = {
+						["value"] = true,
+					},
+					["EHPPercent"] = {
+						["value"] = 50,
+					},
+				},
+			},
+			["Summoners"] = {
+				["Heal"] = {
+					["HPPercent"] = {
+						["value"] = 20,
+					},
+					["UseOnBrand"] = {
+						["value"] = true,
+					},
+					["DMGPercent"] = {
+						["value"] = 20,
+					},
+					["empty"] = {
+					},
+					["UseOnKatarina"] = {
+						["value"] = true,
+					},
+					["UseOnDarius"] = {
+						["value"] = true,
+					},
+					["Enabled"] = {
+						["value"] = true,
+					},
+					["UseOnAhri"] = {
+						["value"] = true,
+					},
+					["UseOnSivir"] = {
+						["value"] = true,
+					},
+				},
+				["Cleanse"] = {
+					["Humanizer"] = {
+						["Max"] = {
+							["value"] = 300,
+						},
+						["Min"] = {
+							["value"] = 200,
+						},
+						["Enabled"] = {
+							["value"] = false,
+						},
+					},
+					["UseOnDarius"] = {
+						["value"] = true,
+					},
+					["UseOnBrand"] = {
+						["value"] = true,
+					},
+					["Min"] = {
+						["value"] = 500,
+					},
+					["empty"] = {
+					},
+					["UseOnKatarina"] = {
+						["value"] = true,
+					},
+					["Types"] = {
+						["Charm"] = {
+							["value"] = true,
+						},
+						["Stun"] = {
+							["value"] = true,
+						},
+						["Slow"] = {
+							["value"] = false,
+						},
+						["Polymorph"] = {
+							["value"] = true,
+						},
+						["Silence"] = {
+							["value"] = false,
+						},
+						["Damage"] = {
+							["value"] = false,
+						},
+						["Taunt"] = {
+							["value"] = true,
+						},
+						["Snare"] = {
+							["value"] = false,
+						},
+						["Suppression"] = {
+							["value"] = true,
+						},
+						["Flee"] = {
+							["value"] = true,
+						},
+						["Fear"] = {
+							["value"] = true,
+						},
+						["Blind"] = {
+							["value"] = false,
+						},
+					},
+					["Enabled"] = {
+						["value"] = true,
+					},
+					["UseOnAhri"] = {
+						["value"] = true,
+					},
+					["UseOnSivir"] = {
+						["value"] = true,
+					},
+				},
+			},
+		},
+		["LoadActivator"] = {
+			["value"] = true,
+		},
+		["info2"] = {
+		},
+		["LoadChampion"] = {
+			["value"] = true,
+		},
+	},
+	["PWJarvanIV"] = {
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["s1"] = {
+			["f"] = {
+				["fak2"] = {
+					["value"] = true,
+				},
+				["dmgpred"] = {
+					["value"] = 1,
+				},
+				["fak1"] = {
+					["value"] = true,
+				},
+				["fak3"] = {
+					["value"] = true,
+				},
+				["fak4"] = {
+					["value"] = true,
+				},
+			},
+			["s"] = {
+				["stick"] = {
+					["value"] = 350,
+				},
+				["stop"] = {
+					["value"] = 65,
+				},
+			},
+			["d"] = {
+				["ecirclecol"] = {
+					["color"] = {
+						["r"] = 243,
+						["g"] = 90,
+						["b"] = 46,
+						["a"] = 180,
+					},
+				},
+				["scirclequal"] = {
+					["value"] = 4,
+				},
+				["scirclecol"] = {
+					["color"] = {
+						["r"] = 180,
+						["g"] = 180,
+						["b"] = 180,
+						["a"] = 180,
+					},
+				},
+				["m"] = {
+				},
+				["sdrawcircle"] = {
+					["value"] = true,
+				},
+				["ecirclequal"] = {
+					["value"] = 4,
+				},
+				["edrawcircle"] = {
+					["value"] = true,
+				},
+				["lh"] = {
+					["value"] = true,
+				},
+				["s"] = {
+				},
+				["e"] = {
+				},
+			},
+			["c"] = {
+				["sticky"] = {
+					["value"] = false,
+				},
+				["ts"] = {
+					["focus"] = false,
+					["mode"] = 1,
+				},
+				["wtt"] = {
+					["value"] = true,
+				},
+				["Humanizer"] = {
+					["value"] = true,
+				},
+			},
+		},
+	},
+	["OutLawz | XinZhao"] = {
+		["JG"] = {
+			["W"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+		},
+		["Misc"] = {
+			["AutoLevel"] = {
+				["value"] = true,
+			},
+			["Autolvltable"] = {
+				["value"] = 1,
+			},
+			["AutoIgnite"] = {
+				["value"] = false,
+			},
+		},
+		["KS"] = {
+			["E/R"] = {
+				["value"] = true,
+			},
+		},
+		["ol"] = {
+		},
+		["Item"] = {
+			["Youmuus"] = {
+				["value"] = true,
+			},
+			["Blade"] = {
+				["value"] = true,
+			},
+		},
+		["out"] = {
+		},
+		["MadeBy:"] = {
+		},
+		["C"] = {
+			["W"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+			["R"] = {
+				["value"] = true,
+			},
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+		},
+		["Drawings"] = {
+			["R"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["Morgana"] = {
+		["Harass"] = {
+			["W"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+		},
+		["Combo"] = {
+			["R"] = {
+				["value"] = true,
+			},
+			["W"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+		},
+		["URFMode"] = {
+			["W"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+			["Ghost"] = {
+				["value"] = true,
+			},
+			["Level"] = {
+				["value"] = true,
+			},
+		},
+		["LaneClear"] = {
+			["W"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+		},
+		["Drawings"] = {
+			["DR"] = {
+				["value"] = false,
+			},
+			["DW"] = {
+				["value"] = false,
+			},
+			["DQ"] = {
+				["value"] = false,
+			},
+		},
+		["SkinChanger"] = {
+			["Skin"] = {
+				["value"] = true,
+			},
+			["SelectedSkin"] = {
+				["value"] = 1,
+			},
+		},
+		["AutoIgnite"] = {
+			["Ignite"] = {
+				["value"] = true,
+			},
+		},
+		["KillSteal"] = {
+			["W"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["Urgot"] = {
+		["Harass"] = {
+			["E"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+		},
+		["Combo"] = {
+			["Qpred"] = {
+				["value"] = 3,
+			},
+			["W"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+			["R"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+		},
+		["URFMode"] = {
+			["W"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+			["Ghost"] = {
+				["value"] = true,
+			},
+			["Level"] = {
+				["value"] = false,
+			},
+		},
+		["LaneClear"] = {
+			["E"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+		},
+		["Drawings"] = {
+			["DR"] = {
+				["value"] = false,
+			},
+			["DQ"] = {
+				["value"] = false,
+			},
+			["DE"] = {
+				["value"] = false,
+			},
+		},
+		["SkinChanger"] = {
+			["Skin"] = {
+				["value"] = true,
+			},
+			["SelectedSkin"] = {
+				["value"] = 1,
+			},
+		},
+		["AutoIgnite"] = {
+			["Ignite"] = {
+				["value"] = true,
+			},
+		},
+		["KillSteal"] = {
+			["E"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["[T01] Riven"] = {
+		["Auto"] = {
+			["UseW"] = {
+				["value"] = true,
+			},
+		},
+		["Misc"] = {
+			["LvlUp"] = {
+				["value"] = false,
+			},
+			["X"] = {
+				["value"] = 1,
+			},
+			["AutoLvlUp"] = {
+				["value"] = 2,
+			},
+			["UI"] = {
+				["value"] = true,
+			},
+			["HP"] = {
+				["value"] = 95,
+			},
+		},
+		["Harass"] = {
+			["UseE"] = {
+				["value"] = true,
+			},
+			["UseQ"] = {
+				["value"] = true,
+			},
+			["UseW"] = {
+				["value"] = true,
+			},
+		},
+		["LaneClear"] = {
+			["UseW"] = {
+				["value"] = true,
+			},
+			["UseQ"] = {
+				["value"] = true,
+			},
+		},
+		["Combo"] = {
+			["UseE"] = {
+				["value"] = true,
+			},
+			["UseQ"] = {
+				["value"] = true,
+			},
+			["UseW"] = {
+				["value"] = true,
+			},
+		},
+		["KillSteal"] = {
+			["UseR"] = {
+				["value"] = true,
+			},
+		},
+		["Prediction"] = {
+			["PredictionR"] = {
+				["value"] = 5,
+			},
+			["PredictionQ"] = {
+				["value"] = 2,
+			},
+		},
+		["JungleClear"] = {
+			["UseE"] = {
+				["value"] = true,
+			},
+			["UseQ"] = {
+				["value"] = true,
+			},
+			["UseW"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["PredictionMenu"] = {
+		["Pred"] = {
+			["value"] = 1,
+		},
+	},
+	["Perma_Show"] = {
+		["x"] = 15,
+		["y"] = 82,
+	},
+	["Beta's Amumu"] = {
+		["Combo"] = {
+			["W"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+			["R"] = {
+				["value"] = true,
+			},
+			["MR"] = {
+				["value"] = 2,
+			},
+			["Mana"] = {
+				["value"] = 50,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+		},
+		["Misc"] = {
+			["S"] = {
+				["value"] = 1,
+			},
+		},
+		["Draw"] = {
+			["R"] = {
+				["value"] = false,
+			},
+			["W"] = {
+				["value"] = false,
+			},
+			["E"] = {
+				["value"] = false,
+			},
+			["Q"] = {
+				["value"] = false,
+			},
+		},
+	},
+	["IOWBrand"] = {
+		["f"] = {
+			["dmgpred"] = {
+				["value"] = 1,
+			},
+		},
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["s"] = {
+			["stop"] = {
+				["value"] = 65,
+			},
+		},
+		["d"] = {
+			["ecirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 0,
+					["b"] = 0,
+					["a"] = 155,
+				},
+			},
+			["scirclequal"] = {
+				["value"] = 4,
+			},
+			["scirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 255,
+					["b"] = 255,
+					["a"] = 255,
+				},
+			},
+			["m"] = {
+			},
+			["sdrawcircle"] = {
+				["value"] = false,
+			},
+			["ecirclequal"] = {
+				["value"] = 4,
+			},
+			["edrawcircle"] = {
+				["value"] = false,
+			},
+			["lh"] = {
+				["value"] = false,
+			},
+			["s"] = {
+			},
+			["e"] = {
+			},
+		},
+		["c"] = {
+			["sticky"] = {
+				["value"] = false,
+			},
+			["ts"] = {
+				["focus"] = false,
+				["mode"] = 1,
+			},
+			["Humanizer"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["IOWHecarim"] = {
+		["f"] = {
+			["dmgpred"] = {
+				["value"] = 1,
+			},
+		},
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["c"] = {
+			["sticky"] = {
+				["value"] = false,
+			},
+			["ts"] = {
+				["focus"] = false,
+				["mode"] = 1,
+			},
+			["wtt"] = {
+				["value"] = true,
+			},
+			["Humanizer"] = {
+				["value"] = true,
+			},
+		},
+		["d"] = {
+			["ecirclecol"] = {
+				["color"] = {
+					["b"] = 0,
+					["g"] = 0,
+					["r"] = 255,
+					["a"] = 155,
+				},
+			},
+			["scirclequal"] = {
+				["value"] = 4,
+			},
+			["scirclecol"] = {
+				["color"] = {
+					["b"] = 255,
+					["g"] = 255,
+					["r"] = 255,
+					["a"] = 255,
+				},
+			},
+			["m"] = {
+			},
+			["sdrawcircle"] = {
+				["value"] = false,
+			},
+			["ecirclequal"] = {
+				["value"] = 4,
+			},
+			["edrawcircle"] = {
+				["value"] = false,
+			},
+			["lh"] = {
+				["value"] = false,
+			},
+			["s"] = {
+			},
+			["e"] = {
+			},
+		},
+		["s"] = {
+			["stick"] = {
+				["value"] = 350,
+			},
+			["stop"] = {
+				["value"] = 80,
+			},
+		},
+	},
+	["IOWCaitlyn"] = {
+		["f"] = {
+			["dmgpred"] = {
+				["value"] = 1,
+			},
+		},
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["c"] = {
+			["sticky"] = {
+				["value"] = false,
+			},
+			["ts"] = {
+				["focus"] = false,
+				["mode"] = 1,
+			},
+			["Humanizer"] = {
+				["value"] = true,
+			},
+		},
+		["d"] = {
+			["ecirclecol"] = {
+				["color"] = {
+					["b"] = 0,
+					["g"] = 0,
+					["r"] = 255,
+					["a"] = 155,
+				},
+			},
+			["scirclequal"] = {
+				["value"] = 4,
+			},
+			["scirclecol"] = {
+				["color"] = {
+					["b"] = 255,
+					["g"] = 255,
+					["r"] = 255,
+					["a"] = 255,
+				},
+			},
+			["m"] = {
+			},
+			["sdrawcircle"] = {
+				["value"] = false,
+			},
+			["ecirclequal"] = {
+				["value"] = 4,
+			},
+			["edrawcircle"] = {
+				["value"] = false,
+			},
+			["lh"] = {
+				["value"] = false,
+			},
+			["s"] = {
+			},
+			["e"] = {
+			},
+		},
+		["s"] = {
+			["stop"] = {
+				["value"] = 65,
+			},
+		},
+	},
+	["QWER Series"] = {
+		["DD"] = {
+			["DColor"] = {
+				["color"] = {
+					["b"] = 255,
+					["g"] = 0,
+					["r"] = 255,
+					["a"] = 255,
+				},
+			},
+			["DTD"] = {
+				["value"] = true,
+			},
+		},
+		["Champ"] = {
+			["LC"] = {
+				["E"] = {
+					["value"] = true,
+				},
+				["Q"] = {
+					["value"] = true,
+				},
+			},
+			["JC"] = {
+				["E"] = {
+					["value"] = true,
+				},
+				["Q"] = {
+					["value"] = true,
+				},
+			},
+			["Orb"] = {
+				["C"] = {
+					["isToggle"] = false,
+					["key"] = 32,
+				},
+				["LC"] = {
+					["isToggle"] = false,
+					["key"] = 86,
+				},
+			},
+			["HC"] = {
+				["W"] = {
+					["value"] = 20,
+				},
+			},
+			["C"] = {
+				["R"] = {
+					["value"] = true,
+				},
+				["W"] = {
+					["value"] = true,
+				},
+				["Q"] = {
+					["value"] = true,
+				},
+				["E"] = {
+					["value"] = true,
+				},
+			},
+		},
+		["T"] = {
+			["ts"] = {
+				["value"] = 1,
+			},
+		},
+		["AL"] = {
+			["ALT"] = {
+				["value"] = 7,
+			},
+		},
+	},
+	["GoSLeeSin"] = {
+		["KeyBinds"] = {
+			["starcombo"] = {
+				["isToggle"] = false,
+				["key"] = 65,
+			},
+			["Clear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["wardjump"] = {
+				["isToggle"] = false,
+				["key"] = 71,
+			},
+			["wardinsec"] = {
+				["isToggle"] = false,
+				["key"] = 84,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["LastHitSettings"] = {
+			["useqlh"] = {
+				["value"] = true,
+			},
+			["minenergylh"] = {
+				["value"] = 100,
+			},
+		},
+		["JungleClearSettings"] = {
+			["useejl"] = {
+				["value"] = true,
+			},
+			["usewjl"] = {
+				["value"] = true,
+			},
+			["useqjl"] = {
+				["value"] = true,
+			},
+			["usesjl"] = {
+				["value"] = true,
+			},
+		},
+		["HarassSettings"] = {
+			["useeh"] = {
+				["value"] = true,
+			},
+			["useqh"] = {
+				["value"] = true,
+			},
+			["useq2h"] = {
+				["value"] = true,
+			},
+			["minenergy"] = {
+				["value"] = 100,
+			},
+			["secondqdelayh"] = {
+				["value"] = 500,
+			},
+		},
+		["LaneClearSettings"] = {
+			["useelv"] = {
+				["value"] = 3,
+			},
+			["useql"] = {
+				["value"] = true,
+			},
+			["minenergyl"] = {
+				["value"] = 100,
+			},
+			["useel"] = {
+				["value"] = true,
+			},
+		},
+		["ComboSettings"] = {
+			["autoron"] = {
+				["value"] = 1,
+			},
+			["wardjumpcombo"] = {
+				["value"] = true,
+			},
+			["usee"] = {
+				["value"] = true,
+			},
+			["usessmite"] = {
+				["value"] = true,
+			},
+			["wardjumpcombo1"] = {
+				["value"] = true,
+			},
+			["autorxenemies"] = {
+				["activatebubba"] = {
+					["value"] = false,
+				},
+				["enemiescount"] = {
+					["value"] = 2,
+				},
+				["xeflash"] = {
+					["value"] = false,
+				},
+			},
+			["useq2"] = {
+				["value"] = true,
+			},
+			["useq"] = {
+				["value"] = true,
+			},
+			["secondqdelay"] = {
+				["value"] = 500,
+			},
+			["user"] = {
+				["value"] = true,
+			},
+		},
+		["InsecSettings"] = {
+			["fixedwardrange"] = {
+				["value"] = 325,
+			},
+			["useflash"] = {
+				["value"] = true,
+			},
+			["useobjectsallies"] = {
+				["value"] = true,
+			},
+		},
+		["UseItems"] = {
+			["hydrati"] = {
+				["value"] = true,
+			},
+			["youm"] = {
+				["value"] = true,
+			},
+			["omen"] = {
+				["value"] = true,
+			},
+			["minrand"] = {
+				["value"] = 3,
+			},
+		},
+		["DrawingsMenu"] = {
+			["MiscDrawings"] = {
+				["counthitr"] = {
+					["value"] = false,
+				},
+				["insectarget"] = {
+					["value"] = true,
+				},
+			},
+			["ovdrawings"] = {
+				["value"] = true,
+			},
+			["SpellRanges"] = {
+				["wrange"] = {
+					["value"] = false,
+				},
+				["rrange"] = {
+					["value"] = false,
+				},
+				["qrange"] = {
+					["value"] = false,
+				},
+				["spellsdraw"] = {
+					["value"] = false,
+				},
+				["erange"] = {
+					["value"] = false,
+				},
+			},
+		},
+	},
+	["IOWNasus"] = {
+		["f"] = {
+			["dmgpred"] = {
+				["value"] = 1,
+			},
+		},
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["c"] = {
+			["sticky"] = {
+				["value"] = false,
+			},
+			["ts"] = {
+				["focus"] = false,
+				["mode"] = 1,
+			},
+			["wtt"] = {
+				["value"] = true,
+			},
+			["Humanizer"] = {
+				["value"] = true,
+			},
+		},
+		["d"] = {
+			["ecirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 0,
+					["b"] = 0,
+					["a"] = 155,
+				},
+			},
+			["scirclequal"] = {
+				["value"] = 4,
+			},
+			["scirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 255,
+					["b"] = 255,
+					["a"] = 255,
+				},
+			},
+			["m"] = {
+			},
+			["sdrawcircle"] = {
+				["value"] = false,
+			},
+			["ecirclequal"] = {
+				["value"] = 4,
+			},
+			["edrawcircle"] = {
+				["value"] = false,
+			},
+			["lh"] = {
+				["value"] = false,
+			},
+			["s"] = {
+			},
+			["e"] = {
+			},
+		},
+		["s"] = {
+			["stick"] = {
+				["value"] = 250,
+			},
+			["stop"] = {
+				["value"] = 80,
+			},
+		},
+	},
+	["ADC MAIN | Corki"] = {
+		["Harass"] = {
+			["Harass1"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["Mana"] = {
+				["value"] = 60,
+			},
+			["useE"] = {
+				["value"] = false,
+			},
+			["useQ"] = {
+				["value"] = true,
+			},
+			["useR"] = {
+				["value"] = true,
+			},
+		},
+		["Drawings"] = {
+			["DrawDMG"] = {
+				["value"] = false,
+			},
+		},
+		["Combo"] = {
+			["useSheen"] = {
+				["value"] = true,
+			},
+			["useE"] = {
+				["value"] = true,
+			},
+			["useQ"] = {
+				["value"] = true,
+			},
+			["useR"] = {
+				["value"] = true,
+			},
+			["Combo1"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+		},
+		["Items"] = {
+			["useCut"] = {
+				["value"] = true,
+			},
+			["useGhost"] = {
+				["value"] = true,
+			},
+			["useBork"] = {
+				["value"] = true,
+			},
+			["useRedPot"] = {
+				["value"] = true,
+			},
+		},
+		["Killsteal"] = {
+			["ksR"] = {
+				["value"] = true,
+			},
+			["ksQ"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["Caitlyn"] = {
+		["Drawings"] = {
+			["R"] = {
+				["value"] = false,
+			},
+			["W"] = {
+				["value"] = false,
+			},
+			["E"] = {
+				["value"] = false,
+			},
+			["Q"] = {
+				["value"] = false,
+			},
+		},
+		["Combo"] = {
+			["Q"] = {
+				["value"] = true,
+			},
+			["W"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+			["Hp"] = {
+				["value"] = 91,
+			},
+		},
+		["KS"] = {
+			["R"] = {
+				["value"] = true,
+			},
+		},
+		["Harass"] = {
+			["Q"] = {
+				["value"] = true,
+			},
+			["W"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["Sona"] = {
+		["hr"] = {
+			["HrQ"] = {
+				["value"] = true,
+			},
+			["HrMana"] = {
+				["value"] = 20,
+			},
+		},
+		["Draws"] = {
+			["QualiDraw"] = {
+				["value"] = 50,
+			},
+			["Range"] = {
+				["DrawE"] = {
+					["value"] = false,
+				},
+				["DrawQ"] = {
+					["value"] = false,
+				},
+				["Ecol"] = {
+					["color"] = {
+						["r"] = 155,
+						["g"] = 48,
+						["b"] = 255,
+						["a"] = 180,
+					},
+				},
+				["DrawW"] = {
+					["value"] = false,
+				},
+				["DrawR"] = {
+					["value"] = false,
+				},
+				["Wcol"] = {
+					["color"] = {
+						["r"] = 124,
+						["g"] = 252,
+						["b"] = 0,
+						["a"] = 180,
+					},
+				},
+				["Rcol"] = {
+					["color"] = {
+						["r"] = 248,
+						["g"] = 245,
+						["b"] = 120,
+						["a"] = 180,
+					},
+				},
+				["Qcol"] = {
+					["color"] = {
+						["r"] = 30,
+						["g"] = 144,
+						["b"] = 255,
+						["a"] = 180,
+					},
+				},
+			},
+			["CircleAlly"] = {
+				["DrawCircleAlly"] = {
+					["value"] = false,
+				},
+				["HPAllies"] = {
+					["value"] = 40,
+				},
+				["Alcol"] = {
+					["color"] = {
+						["r"] = 173,
+						["g"] = 255,
+						["b"] = 47,
+						["a"] = 140,
+					},
+				},
+			},
+			["Texts"] = {
+				["WAlly"] = {
+					["value"] = false,
+				},
+				["HPAlly"] = {
+					["value"] = false,
+				},
+				["WSmyH"] = {
+					["value"] = false,
+				},
+			},
+		},
+		["AtSpell"] = {
+			["WAuto"] = {
+				["me"] = {
+					["ASW"] = {
+						["value"] = true,
+					},
+					["myHrHP"] = {
+						["value"] = 55,
+					},
+				},
+				["ally"] = {
+					["battlemode"] = {
+						["value"] = 70,
+					},
+					["AllyEb"] = {
+						["value"] = true,
+					},
+					["info2"] = {
+					},
+					["info0"] = {
+					},
+					["normalmode"] = {
+						["value"] = 50,
+					},
+					["info1"] = {
+					},
+				},
+			},
+			["QAuto"] = {
+				["ASQ"] = {
+					["value"] = true,
+				},
+			},
+			["Interrupt"] = {
+				["InfoQ"] = {
+				},
+			},
+			["ASMana"] = {
+				["value"] = 15,
+			},
+		},
+		["info3"] = {
+		},
+		["AutoLvlUp"] = {
+			["Enable"] = {
+				["value"] = false,
+			},
+			["Choose"] = {
+				["value"] = 1,
+			},
+		},
+		["lh"] = {
+			["LasthitQ"] = {
+				["value"] = true,
+			},
+			["LhMana"] = {
+				["value"] = 20,
+			},
+		},
+		["cb"] = {
+			["RCB"] = {
+				["value"] = true,
+			},
+			["RCBxEnm"] = {
+				["value"] = 2,
+			},
+			["ECB"] = {
+				["value"] = true,
+			},
+			["WCB"] = {
+				["value"] = true,
+			},
+			["QCB"] = {
+				["value"] = true,
+			},
+		},
+		["KS"] = {
+			["IgniteKS"] = {
+				["value"] = true,
+			},
+			["KSEb"] = {
+				["value"] = true,
+			},
+			["QKS"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["IOWDiana"] = {
+		["f"] = {
+			["dmgpred"] = {
+				["value"] = 1,
+			},
+		},
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["c"] = {
+			["sticky"] = {
+				["value"] = false,
+			},
+			["ts"] = {
+				["focus"] = false,
+				["mode"] = 1,
+			},
+			["wtt"] = {
+				["value"] = true,
+			},
+			["Humanizer"] = {
+				["value"] = true,
+			},
+		},
+		["d"] = {
+			["ecirclecol"] = {
+				["color"] = {
+					["b"] = 0,
+					["g"] = 0,
+					["r"] = 255,
+					["a"] = 155,
+				},
+			},
+			["scirclequal"] = {
+				["value"] = 4,
+			},
+			["scirclecol"] = {
+				["color"] = {
+					["b"] = 255,
+					["g"] = 255,
+					["r"] = 255,
+					["a"] = 255,
+				},
+			},
+			["m"] = {
+			},
+			["sdrawcircle"] = {
+				["value"] = false,
+			},
+			["ecirclequal"] = {
+				["value"] = 4,
+			},
+			["edrawcircle"] = {
+				["value"] = false,
+			},
+			["lh"] = {
+				["value"] = false,
+			},
+			["s"] = {
+			},
+			["e"] = {
+			},
+		},
+		["s"] = {
+			["stick"] = {
+				["value"] = 300,
+			},
+			["stop"] = {
+				["value"] = 65,
+			},
+		},
+	},
+	["IOWMaokai"] = {
+		["f"] = {
+			["dmgpred"] = {
+				["value"] = 1,
+			},
+		},
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["c"] = {
+			["sticky"] = {
+				["value"] = false,
+			},
+			["ts"] = {
+				["focus"] = false,
+				["mode"] = 1,
+			},
+			["wtt"] = {
+				["value"] = true,
+			},
+			["Humanizer"] = {
+				["value"] = true,
+			},
+		},
+		["d"] = {
+			["ecirclecol"] = {
+				["color"] = {
+					["b"] = 0,
+					["g"] = 0,
+					["r"] = 255,
+					["a"] = 155,
+				},
+			},
+			["scirclequal"] = {
+				["value"] = 4,
+			},
+			["scirclecol"] = {
+				["color"] = {
+					["b"] = 255,
+					["g"] = 255,
+					["r"] = 255,
+					["a"] = 255,
+				},
+			},
+			["m"] = {
+			},
+			["sdrawcircle"] = {
+				["value"] = false,
+			},
+			["ecirclequal"] = {
+				["value"] = 4,
+			},
+			["edrawcircle"] = {
+				["value"] = false,
+			},
+			["lh"] = {
+				["value"] = false,
+			},
+			["s"] = {
+			},
+			["e"] = {
+			},
+		},
+		["s"] = {
+			["stick"] = {
+				["value"] = 250,
+			},
+			["stop"] = {
+				["value"] = 80,
+			},
+		},
+	},
+	["MenuConfig"] = {
+		["ps"] = {
+			["value"] = false,
+		},
+		["ontop"] = {
+			["value"] = true,
+		},
+		["Show"] = {
+			["value"] = false,
+		},
+		["MenuKey"] = {
+			["isToggle"] = false,
+			["key"] = 16,
+		},
+		["scale"] = {
+			["value"] = 100,
+		},
+		["Inf"] = {
+		},
+	},
+	["IOWSivir"] = {
+		["f"] = {
+			["dmgpred"] = {
+				["value"] = 1,
+			},
+		},
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["s"] = {
+			["stop"] = {
+				["value"] = 65,
+			},
+		},
+		["d"] = {
+			["ecirclecol"] = {
+				["color"] = {
+					["b"] = 0,
+					["g"] = 0,
+					["r"] = 255,
+					["a"] = 155,
+				},
+			},
+			["scirclequal"] = {
+				["value"] = 4,
+			},
+			["scirclecol"] = {
+				["color"] = {
+					["b"] = 255,
+					["g"] = 255,
+					["r"] = 255,
+					["a"] = 255,
+				},
+			},
+			["m"] = {
+			},
+			["sdrawcircle"] = {
+				["value"] = false,
+			},
+			["ecirclequal"] = {
+				["value"] = 4,
+			},
+			["edrawcircle"] = {
+				["value"] = false,
+			},
+			["lh"] = {
+				["value"] = false,
+			},
+			["s"] = {
+			},
+			["e"] = {
+			},
+		},
+		["c"] = {
+			["sticky"] = {
+				["value"] = false,
+			},
+			["ts"] = {
+				["focus"] = false,
+				["mode"] = 1,
+			},
+			["Humanizer"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["Singed"] = {
+		["AutoLevel"] = {
+			["value"] = false,
+		},
+		["KS"] = {
+			["Ignite"] = {
+				["value"] = true,
+			},
+		},
+		["Q"] = {
+			["isToggle"] = false,
+			["key"] = 16,
+		},
+	},
+	["PWAnnie"] = {
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["s1"] = {
+			["f"] = {
+				["fak2"] = {
+					["value"] = true,
+				},
+				["dmgpred"] = {
+					["value"] = 1,
+				},
+				["fak1"] = {
+					["value"] = true,
+				},
+				["fak3"] = {
+					["value"] = true,
+				},
+				["fak4"] = {
+					["value"] = true,
+				},
+			},
+			["s"] = {
+				["stop"] = {
+					["value"] = 55,
+				},
+			},
+			["d"] = {
+				["ecirclecol"] = {
+					["color"] = {
+						["b"] = 46,
+						["g"] = 90,
+						["r"] = 243,
+						["a"] = 180,
+					},
+				},
+				["scirclequal"] = {
+					["value"] = 4,
+				},
+				["scirclecol"] = {
+					["color"] = {
+						["b"] = 180,
+						["g"] = 180,
+						["r"] = 180,
+						["a"] = 180,
+					},
+				},
+				["m"] = {
+				},
+				["sdrawcircle"] = {
+					["value"] = false,
+				},
+				["ecirclequal"] = {
+					["value"] = 4,
+				},
+				["edrawcircle"] = {
+					["value"] = false,
+				},
+				["lh"] = {
+					["value"] = false,
+				},
+				["s"] = {
+				},
+				["e"] = {
+				},
+			},
+			["c"] = {
+				["sticky"] = {
+					["value"] = false,
+				},
+				["ts"] = {
+					["focus"] = false,
+					["mode"] = 1,
+				},
+				["Humanizer"] = {
+					["value"] = true,
+				},
+			},
+		},
+	},
+	["ProjectYasuo"] = {
+		["Qset"] = {
+			["Stack"] = {
+				["value"] = false,
+			},
+			["MinStack"] = {
+				["value"] = 3,
+			},
+		},
+		["Harass"] = {
+			["Mode"] = {
+				["value"] = 1,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+			["LH"] = {
+				["value"] = true,
+			},
+			["Q3"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = false,
+			},
+		},
+		["LaneClear"] = {
+			["Q"] = {
+				["value"] = true,
+			},
+			["Q3"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+		},
+		["KS"] = {
+			["Q"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+		},
+		["Eset"] = {
+			["Enemy"] = {
+				["value"] = 20,
+			},
+			["Gapclose"] = {
+				["value"] = true,
+			},
+			["health"] = {
+				["value"] = true,
+			},
+			["Me"] = {
+				["value"] = 40,
+			},
+		},
+		["Rset"] = {
+			["Delay"] = {
+				["value"] = true,
+			},
+			["AutoR"] = {
+				["value"] = 4,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+			["DelayTime"] = {
+				["value"] = 0.5,
+			},
+		},
+		["Key"] = {
+			["Flee"] = {
+				["isToggle"] = false,
+				["key"] = 71,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["BladeMode"] = {
+				["value"] = false,
+				["isToggle"] = true,
+				["key"] = 84,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["Predict"] = {
+			["info1"] = {
+			},
+			["Debug"] = {
+				["value"] = false,
+			},
+			["HC"] = {
+				["value"] = 3,
+			},
+		},
+		["Wset"] = {
+			["Combo"] = {
+				["value"] = false,
+			},
+			["Auto"] = {
+				["value"] = true,
+			},
+		},
+		["JungleClear"] = {
+			["Q"] = {
+				["value"] = true,
+			},
+			["Q3"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+		},
+		["version"] = {
+		},
+		["Combo"] = {
+			["R"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+			["Q3"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+		},
+		["Draw"] = {
+			["W"] = {
+				["value"] = false,
+			},
+			["Q"] = {
+				["value"] = false,
+			},
+			["R"] = {
+				["value"] = false,
+			},
+			["Q3"] = {
+				["value"] = false,
+			},
+			["E"] = {
+				["value"] = false,
+			},
+		},
+		["Interrupt"] = {
+			["Q3"] = {
+				["value"] = true,
+			},
+		},
+		["LastHit"] = {
+			["Q"] = {
+				["value"] = true,
+			},
+			["Q3"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["IPrediction"] = {
+		["callbacks"] = {
+			["dash"] = {
+				["hSejuani"] = {
+					["value"] = true,
+				},
+				["hSivir"] = {
+					["value"] = true,
+				},
+				["hAnivia"] = {
+					["value"] = true,
+				},
+				["hYasuo"] = {
+					["value"] = true,
+				},
+				["hTaliyah"] = {
+					["value"] = true,
+				},
+			},
+			["stun"] = {
+				["hSejuani"] = {
+					["value"] = true,
+				},
+				["hSivir"] = {
+					["value"] = true,
+				},
+				["hAnivia"] = {
+					["value"] = true,
+				},
+				["hYasuo"] = {
+					["value"] = true,
+				},
+				["hTaliyah"] = {
+					["value"] = true,
+				},
+			},
+		},
+		["spells"] = {
+		},
+	},
+	["IOWSion"] = {
+		["f"] = {
+			["dmgpred"] = {
+				["value"] = 1,
+			},
+		},
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["c"] = {
+			["sticky"] = {
+				["value"] = false,
+			},
+			["ts"] = {
+				["focus"] = false,
+				["mode"] = 1,
+			},
+			["wtt"] = {
+				["value"] = true,
+			},
+			["Humanizer"] = {
+				["value"] = true,
+			},
+		},
+		["d"] = {
+			["ecirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 0,
+					["b"] = 0,
+					["a"] = 155,
+				},
+			},
+			["scirclequal"] = {
+				["value"] = 4,
+			},
+			["scirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 255,
+					["b"] = 255,
+					["a"] = 255,
+				},
+			},
+			["m"] = {
+			},
+			["sdrawcircle"] = {
+				["value"] = false,
+			},
+			["ecirclequal"] = {
+				["value"] = 4,
+			},
+			["edrawcircle"] = {
+				["value"] = false,
+			},
+			["lh"] = {
+				["value"] = false,
+			},
+			["s"] = {
+			},
+			["e"] = {
+			},
+		},
+		["s"] = {
+			["stick"] = {
+				["value"] = 350,
+			},
+			["stop"] = {
+				["value"] = 80,
+			},
+		},
+	},
+	["Hecarim"] = {
+		["Harass"] = {
+			["Q"] = {
+				["value"] = true,
+			},
+			["W"] = {
+				["value"] = true,
+			},
+		},
+		["Drawings"] = {
+			["DR"] = {
+				["value"] = false,
+			},
+			["DW"] = {
+				["value"] = false,
+			},
+			["DQ"] = {
+				["value"] = false,
+			},
+		},
+		["AutoMode"] = {
+			["Ghost"] = {
+				["value"] = false,
+			},
+			["E"] = {
+				["value"] = false,
+			},
+			["Q"] = {
+				["value"] = false,
+			},
+			["R"] = {
+				["value"] = false,
+			},
+			["W"] = {
+				["value"] = false,
+			},
+			["RX"] = {
+				["value"] = 3,
+			},
+			["Level"] = {
+				["value"] = false,
+			},
+		},
+		["LaneClear"] = {
+			["Tiamat"] = {
+				["value"] = true,
+			},
+			["W"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+			["RHydra"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = false,
+			},
+		},
+		["Combo"] = {
+			["Tiamat"] = {
+				["value"] = true,
+			},
+			["W"] = {
+				["value"] = true,
+			},
+			["YGB"] = {
+				["value"] = true,
+			},
+			["RHydra"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+			["R"] = {
+				["value"] = true,
+			},
+			["RX"] = {
+				["value"] = 3,
+			},
+			["Gunblade"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+		},
+		["SkinChanger"] = {
+			["Skin"] = {
+				["value"] = true,
+			},
+			["SelectedSkin"] = {
+				["value"] = 1,
+			},
+		},
+		["AutoIgnite"] = {
+			["Ignite"] = {
+				["value"] = true,
+			},
+		},
+		["KillSteal"] = {
+			["Q"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["Ahri"] = {
+		["JungleClear"] = {
+			["E"] = {
+				["value"] = true,
+			},
+			["W"] = {
+				["value"] = true,
+			},
+			["Mana"] = {
+				["value"] = 30,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+		},
+		["Fizzagap"] = {
+			["value"] = true,
+		},
+		["Dianaagap"] = {
+			["value"] = true,
+		},
+		["Harass"] = {
+			["E"] = {
+				["value"] = true,
+			},
+			["W"] = {
+				["value"] = true,
+			},
+			["Mana"] = {
+				["value"] = 30,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+		},
+		["LaneClear"] = {
+			["E"] = {
+				["value"] = false,
+			},
+			["W"] = {
+				["value"] = false,
+			},
+			["Mana"] = {
+				["value"] = 30,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+		},
+		["Killsteal"] = {
+			["W"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+		},
+		["Combo"] = {
+			["RMode"] = {
+				["value"] = 1,
+			},
+			["W"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+			["R"] = {
+				["value"] = false,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+		},
+		["Interrupt"] = {
+		},
+		["Lasthit"] = {
+			["Q"] = {
+				["value"] = false,
+			},
+			["Mana"] = {
+				["value"] = 50,
+			},
+		},
+	},
+	["IOWJax"] = {
+		["f"] = {
+			["dmgpred"] = {
+				["value"] = 1,
+			},
+		},
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["s"] = {
+			["stick"] = {
+				["value"] = 250,
+			},
+			["stop"] = {
+				["value"] = 65,
+			},
+		},
+		["d"] = {
+			["ecirclecol"] = {
+				["color"] = {
+					["b"] = 0,
+					["g"] = 0,
+					["r"] = 255,
+					["a"] = 155,
+				},
+			},
+			["scirclequal"] = {
+				["value"] = 4,
+			},
+			["scirclecol"] = {
+				["color"] = {
+					["b"] = 255,
+					["g"] = 255,
+					["r"] = 255,
+					["a"] = 255,
+				},
+			},
+			["m"] = {
+			},
+			["sdrawcircle"] = {
+				["value"] = false,
+			},
+			["ecirclequal"] = {
+				["value"] = 4,
+			},
+			["edrawcircle"] = {
+				["value"] = false,
+			},
+			["lh"] = {
+				["value"] = false,
+			},
+			["s"] = {
+			},
+			["e"] = {
+			},
+		},
+		["c"] = {
+			["sticky"] = {
+				["value"] = false,
+			},
+			["ts"] = {
+				["focus"] = false,
+				["mode"] = 1,
+			},
+			["wtt"] = {
+				["value"] = true,
+			},
+			["Humanizer"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["Vayne"] = {
+		["Misc"] = {
+			["ARC"] = {
+				["value"] = 3,
+			},
+			["DAAS"] = {
+				["value"] = true,
+			},
+			["ACA"] = {
+				["value"] = true,
+			},
+			["QSSC"] = {
+				["value"] = 90,
+			},
+			["AI"] = {
+				["value"] = true,
+			},
+			["QAC"] = {
+				["value"] = true,
+			},
+			["QSS"] = {
+				["value"] = true,
+			},
+			["ACT"] = {
+				["value"] = true,
+			},
+			["AutoLevel"] = {
+				["value"] = 1,
+			},
+			["AC"] = {
+				["value"] = true,
+			},
+			["AR"] = {
+				["value"] = true,
+			},
+		},
+		["SkinChanger"] = {
+			["skin"] = {
+				["value"] = 1,
+			},
+		},
+		["Harass"] = {
+			["HEO"] = {
+				["HECC"] = {
+					["value"] = 125,
+				},
+				["HEC"] = {
+					["value"] = true,
+				},
+				["HES"] = {
+					["value"] = true,
+				},
+			},
+			["HMM"] = {
+				["value"] = 20,
+			},
+			["HQ"] = {
+				["value"] = true,
+			},
+		},
+		["Interrupter"] = {
+			["Interrupter"] = {
+				["PantheonRJump"] = {
+					["value"] = true,
+				},
+				["Enabled"] = {
+					["value"] = true,
+				},
+				["PantheonRFall"] = {
+					["value"] = true,
+				},
+			},
+		},
+		["AntiGapCloser"] = {
+			["AntiGapcloser"] = {
+				["Enabled"] = {
+					["value"] = true,
+				},
+				["BandageToss"] = {
+					["value"] = true,
+				},
+				["DianaTeleport"] = {
+					["value"] = true,
+				},
+				["Pantheon_LeapBash"] = {
+					["value"] = true,
+				},
+			},
+		},
+		["JungleClear"] = {
+			["JCMM"] = {
+				["value"] = 20,
+			},
+			["JCQ"] = {
+				["value"] = true,
+			},
+			["JCE"] = {
+				["value"] = true,
+			},
+		},
+		["LaneClear"] = {
+			["LCMM"] = {
+				["value"] = 20,
+			},
+			["LCQ"] = {
+				["value"] = true,
+			},
+		},
+		["Combo"] = {
+			["CF"] = {
+				["value"] = true,
+			},
+			["CQ"] = {
+				["value"] = true,
+			},
+			["CMM"] = {
+				["value"] = 17,
+			},
+			["EO"] = {
+				["ECC"] = {
+					["value"] = 125,
+				},
+				["ES"] = {
+					["value"] = true,
+				},
+				["EC"] = {
+					["value"] = true,
+				},
+			},
+			["BORK"] = {
+				["value"] = true,
+			},
+			["CR"] = {
+				["value"] = true,
+			},
+			["Bilge"] = {
+				["value"] = true,
+			},
+			["RotSec"] = {
+				["value"] = true,
+			},
+		},
+		["KillSteal"] = {
+			["KSW"] = {
+				["value"] = true,
+			},
+			["KSQ"] = {
+				["value"] = true,
+			},
+		},
+		["GapClose"] = {
+			["GCR"] = {
+				["value"] = false,
+			},
+			["GCQ"] = {
+				["value"] = true,
+			},
+		},
+		["Draw"] = {
+			["DAA"] = {
+				["value"] = false,
+			},
+			["DE"] = {
+				["value"] = false,
+			},
+			["DQ"] = {
+				["value"] = false,
+			},
+			["DWD"] = {
+				["value"] = false,
+			},
+		},
+	},
+	["IOWJarvanIV"] = {
+		["f"] = {
+			["dmgpred"] = {
+				["value"] = 1,
+			},
+		},
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["s"] = {
+			["stick"] = {
+				["value"] = 350,
+			},
+			["stop"] = {
+				["value"] = 65,
+			},
+		},
+		["d"] = {
+			["ecirclecol"] = {
+				["color"] = {
+					["b"] = 0,
+					["g"] = 0,
+					["r"] = 255,
+					["a"] = 155,
+				},
+			},
+			["scirclequal"] = {
+				["value"] = 4,
+			},
+			["scirclecol"] = {
+				["color"] = {
+					["b"] = 255,
+					["g"] = 255,
+					["r"] = 255,
+					["a"] = 255,
+				},
+			},
+			["m"] = {
+			},
+			["sdrawcircle"] = {
+				["value"] = false,
+			},
+			["ecirclequal"] = {
+				["value"] = 4,
+			},
+			["edrawcircle"] = {
+				["value"] = false,
+			},
+			["lh"] = {
+				["value"] = false,
+			},
+			["s"] = {
+			},
+			["e"] = {
+			},
+		},
+		["c"] = {
+			["sticky"] = {
+				["value"] = false,
+			},
+			["ts"] = {
+				["focus"] = false,
+				["mode"] = 1,
+			},
+			["wtt"] = {
+				["value"] = true,
+			},
+			["Humanizer"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["IOWLux"] = {
+		["f"] = {
+			["dmgpred"] = {
+				["value"] = 1,
+			},
+		},
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["c"] = {
+			["sticky"] = {
+				["value"] = false,
+			},
+			["ts"] = {
+				["focus"] = false,
+				["mode"] = 1,
+			},
+			["Humanizer"] = {
+				["value"] = true,
+			},
+		},
+		["d"] = {
+			["ecirclecol"] = {
+				["color"] = {
+					["b"] = 0,
+					["g"] = 0,
+					["r"] = 255,
+					["a"] = 155,
+				},
+			},
+			["scirclequal"] = {
+				["value"] = 4,
+			},
+			["scirclecol"] = {
+				["color"] = {
+					["b"] = 255,
+					["g"] = 255,
+					["r"] = 255,
+					["a"] = 255,
+				},
+			},
+			["m"] = {
+			},
+			["sdrawcircle"] = {
+				["value"] = false,
+			},
+			["ecirclequal"] = {
+				["value"] = 4,
+			},
+			["edrawcircle"] = {
+				["value"] = false,
+			},
+			["lh"] = {
+				["value"] = false,
+			},
+			["s"] = {
+			},
+			["e"] = {
+			},
+		},
+		["s"] = {
+			["stop"] = {
+				["value"] = 65,
+			},
+		},
+	},
+	["PWBrand"] = {
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["s1"] = {
+			["f"] = {
+				["fak2"] = {
+					["value"] = true,
+				},
+				["dmgpred"] = {
+					["value"] = 1,
+				},
+				["fak1"] = {
+					["value"] = true,
+				},
+				["fak3"] = {
+					["value"] = true,
+				},
+				["fak4"] = {
+					["value"] = true,
+				},
+			},
+			["c"] = {
+				["sticky"] = {
+					["value"] = false,
+				},
+				["ts"] = {
+					["focus"] = false,
+					["mode"] = 1,
+				},
+				["Humanizer"] = {
+					["value"] = true,
+				},
+			},
+			["d"] = {
+				["ecirclecol"] = {
+					["color"] = {
+						["r"] = 243,
+						["g"] = 90,
+						["b"] = 46,
+						["a"] = 180,
+					},
+				},
+				["scirclequal"] = {
+					["value"] = 4,
+				},
+				["scirclecol"] = {
+					["color"] = {
+						["r"] = 180,
+						["g"] = 180,
+						["b"] = 180,
+						["a"] = 180,
+					},
+				},
+				["m"] = {
+				},
+				["sdrawcircle"] = {
+					["value"] = false,
+				},
+				["ecirclequal"] = {
+					["value"] = 4,
+				},
+				["edrawcircle"] = {
+					["value"] = false,
+				},
+				["lh"] = {
+					["value"] = false,
+				},
+				["s"] = {
+				},
+				["e"] = {
+				},
+			},
+			["s"] = {
+				["stop"] = {
+					["value"] = 65,
+				},
+			},
+		},
+	},
+	["[GoS-U] MissFortune"] = {
+		["Prediction"] = {
+			["PredictionR"] = {
+				["value"] = 5,
+			},
+			["PredictionE"] = {
+				["value"] = 5,
+			},
+		},
+		["Auto"] = {
+			["UseE"] = {
+				["value"] = false,
+			},
+			["UseQEx"] = {
+				["value"] = false,
+			},
+			["MP"] = {
+				["value"] = 40,
+			},
+			["UseQ"] = {
+				["value"] = false,
+			},
+		},
+		["Harass"] = {
+			["MP"] = {
+				["value"] = 40,
+			},
+			["UseE"] = {
+				["value"] = false,
+			},
+			["UseQEx"] = {
+				["value"] = true,
+			},
+			["UseW"] = {
+				["value"] = true,
+			},
+			["UseQ"] = {
+				["value"] = true,
+			},
+		},
+		["AntiGapcloser"] = {
+			["Distance"] = {
+				["value"] = 400,
+			},
+			["UseE"] = {
+				["value"] = false,
+			},
+		},
+		["LaneClear"] = {
+			["UseE"] = {
+				["value"] = true,
+			},
+			["UseQ"] = {
+				["value"] = false,
+			},
+			["MP"] = {
+				["value"] = 40,
+			},
+		},
+		["Drawings"] = {
+			["DrawE"] = {
+				["value"] = false,
+			},
+			["DrawDMG"] = {
+				["value"] = false,
+			},
+			["DrawQ"] = {
+				["value"] = false,
+			},
+			["DrawR"] = {
+				["value"] = false,
+			},
+		},
+		["KillSteal"] = {
+			["UseQ"] = {
+				["value"] = true,
+			},
+			["UseQEx"] = {
+				["value"] = true,
+			},
+		},
+		["Combo"] = {
+			["UseQ"] = {
+				["value"] = true,
+			},
+			["X"] = {
+				["value"] = 1,
+			},
+			["UseW"] = {
+				["value"] = true,
+			},
+			["UseE"] = {
+				["value"] = true,
+			},
+			["UseQEx"] = {
+				["value"] = true,
+			},
+			["UseR"] = {
+				["value"] = false,
+			},
+			["HP"] = {
+				["value"] = 40,
+			},
+		},
+		["LastHit"] = {
+			["MP"] = {
+				["value"] = 40,
+			},
+			["UseQ"] = {
+				["value"] = false,
+			},
+		},
+	},
+	["IOWSona"] = {
+		["f"] = {
+			["dmgpred"] = {
+				["value"] = 1,
+			},
+		},
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["c"] = {
+			["sticky"] = {
+				["value"] = false,
+			},
+			["ts"] = {
+				["focus"] = false,
+				["mode"] = 1,
+			},
+			["Humanizer"] = {
+				["value"] = true,
+			},
+		},
+		["d"] = {
+			["ecirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 0,
+					["b"] = 0,
+					["a"] = 155,
+				},
+			},
+			["scirclequal"] = {
+				["value"] = 4,
+			},
+			["scirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 255,
+					["b"] = 255,
+					["a"] = 255,
+				},
+			},
+			["m"] = {
+			},
+			["sdrawcircle"] = {
+				["value"] = false,
+			},
+			["ecirclequal"] = {
+				["value"] = 4,
+			},
+			["edrawcircle"] = {
+				["value"] = false,
+			},
+			["lh"] = {
+				["value"] = false,
+			},
+			["s"] = {
+			},
+			["e"] = {
+			},
+		},
+		["s"] = {
+			["stop"] = {
+				["value"] = 65,
+			},
+		},
+	},
+	["IOWAkali"] = {
+		["f"] = {
+			["dmgpred"] = {
+				["value"] = 1,
+			},
+		},
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["s"] = {
+			["stick"] = {
+				["value"] = 250,
+			},
+			["stop"] = {
+				["value"] = 65,
+			},
+		},
+		["d"] = {
+			["ecirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 0,
+					["b"] = 0,
+					["a"] = 155,
+				},
+			},
+			["scirclequal"] = {
+				["value"] = 4,
+			},
+			["scirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 255,
+					["b"] = 255,
+					["a"] = 255,
+				},
+			},
+			["m"] = {
+			},
+			["sdrawcircle"] = {
+				["value"] = false,
+			},
+			["ecirclequal"] = {
+				["value"] = 4,
+			},
+			["edrawcircle"] = {
+				["value"] = false,
+			},
+			["lh"] = {
+				["value"] = false,
+			},
+			["s"] = {
+			},
+			["e"] = {
+			},
+		},
+		["c"] = {
+			["sticky"] = {
+				["value"] = false,
+			},
+			["ts"] = {
+				["focus"] = false,
+				["mode"] = 1,
+			},
+			["wtt"] = {
+				["value"] = true,
+			},
+			["Humanizer"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["garen"] = {
+		["laneclear"] = {
+			["E"] = {
+				["value"] = true,
+			},
+		},
+		["combo"] = {
+			["R"] = {
+				["value"] = true,
+			},
+			["W"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = false,
+			},
+		},
+		["ksteal"] = {
+			["R"] = {
+				["value"] = true,
+			},
+		},
+		["draws"] = {
+			["edraw"] = {
+				["value"] = false,
+			},
+			["rdraw"] = {
+				["value"] = false,
+			},
+			["rhpdraw"] = {
+				["value"] = false,
+			},
+		},
+		["misc"] = {
+			["skin"] = {
+				["value"] = 1,
+			},
+		},
+	},
+	["PWDarius"] = {
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["s1"] = {
+			["f"] = {
+				["fak2"] = {
+					["value"] = true,
+				},
+				["dmgpred"] = {
+					["value"] = 1,
+				},
+				["fak1"] = {
+					["value"] = true,
+				},
+				["fak3"] = {
+					["value"] = true,
+				},
+				["fak4"] = {
+					["value"] = true,
+				},
+			},
+			["c"] = {
+				["sticky"] = {
+					["value"] = false,
+				},
+				["ts"] = {
+					["focus"] = false,
+					["mode"] = 1,
+				},
+				["wtt"] = {
+					["value"] = true,
+				},
+				["Humanizer"] = {
+					["value"] = true,
+				},
+			},
+			["d"] = {
+				["ecirclecol"] = {
+					["color"] = {
+						["r"] = 243,
+						["g"] = 90,
+						["b"] = 46,
+						["a"] = 180,
+					},
+				},
+				["scirclequal"] = {
+					["value"] = 4,
+				},
+				["scirclecol"] = {
+					["color"] = {
+						["r"] = 180,
+						["g"] = 180,
+						["b"] = 180,
+						["a"] = 180,
+					},
+				},
+				["m"] = {
+				},
+				["sdrawcircle"] = {
+					["value"] = false,
+				},
+				["ecirclequal"] = {
+					["value"] = 4,
+				},
+				["edrawcircle"] = {
+					["value"] = false,
+				},
+				["lh"] = {
+					["value"] = false,
+				},
+				["s"] = {
+				},
+				["e"] = {
+				},
+			},
+			["s"] = {
+				["stick"] = {
+					["value"] = 350,
+				},
+				["stop"] = {
+					["value"] = 80,
+				},
+			},
+		},
+	},
+	["[T01] Orianna"] = {
+		["Misc"] = {
+			["LvlUp"] = {
+				["value"] = false,
+			},
+			["X"] = {
+				["value"] = 1,
+			},
+			["UseE"] = {
+				["isToggle"] = false,
+				["key"] = 65,
+			},
+			["AutoLvlUp"] = {
+				["value"] = 1,
+			},
+			["HP"] = {
+				["value"] = 40,
+			},
+		},
+		["Prediction"] = {
+			["PredictionQ"] = {
+				["value"] = 2,
+			},
+		},
+		["Auto"] = {
+			["UseW"] = {
+				["value"] = true,
+			},
+			["UseQ"] = {
+				["value"] = true,
+			},
+			["MP"] = {
+				["value"] = 40,
+			},
+			["UseR"] = {
+				["value"] = false,
+			},
+		},
+		["Harass"] = {
+			["UseE"] = {
+				["value"] = true,
+			},
+			["UseQ"] = {
+				["value"] = true,
+			},
+			["MP"] = {
+				["value"] = 40,
+			},
+			["UseW"] = {
+				["value"] = true,
+			},
+		},
+		["LaneClear"] = {
+			["UseQ"] = {
+				["value"] = true,
+			},
+			["MP"] = {
+				["value"] = 40,
+			},
+			["UseW"] = {
+				["value"] = true,
+			},
+		},
+		["Combo"] = {
+			["UseE"] = {
+				["value"] = true,
+			},
+			["UseQ"] = {
+				["value"] = true,
+			},
+			["UseR"] = {
+				["value"] = true,
+			},
+			["UseW"] = {
+				["value"] = true,
+			},
+		},
+		["KillSteal"] = {
+			["UseR"] = {
+				["value"] = true,
+			},
+			["UseW"] = {
+				["value"] = true,
+			},
+		},
+		["Interrupter"] = {
+			["UseR"] = {
+				["value"] = true,
+			},
+		},
+		["JungleClear"] = {
+			["UseE"] = {
+				["value"] = true,
+			},
+			["UseQ"] = {
+				["value"] = true,
+			},
+			["UseW"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["Lux"] = {
+		["JG"] = {
+			["E"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+		},
+		["Farm"] = {
+			["E"] = {
+				["value"] = true,
+			},
+			["Mana"] = {
+				["value"] = 40,
+			},
+			["Q"] = {
+				["value"] = false,
+			},
+		},
+		["Draw"] = {
+			["W"] = {
+				["value"] = false,
+			},
+			["Q"] = {
+				["value"] = false,
+			},
+			["E"] = {
+				["value"] = false,
+			},
+		},
+		["KS"] = {
+			["R"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+		},
+		["Harass"] = {
+			["E"] = {
+				["value"] = true,
+			},
+			["Mana"] = {
+				["value"] = 40,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+		},
+		["Combo"] = {
+			["WA"] = {
+				["value"] = true,
+			},
+			["WMA"] = {
+				["value"] = 1,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+			["WM"] = {
+				["value"] = 90,
+			},
+			["W"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["Miss Fortune"] = {
+		["Combo"] = {
+			["useE"] = {
+				["value"] = true,
+			},
+			["useAutoQ"] = {
+				["value"] = true,
+			},
+			["useQ"] = {
+				["value"] = true,
+			},
+			["useW"] = {
+				["value"] = true,
+			},
+			["useQminion"] = {
+				["value"] = false,
+			},
+		},
+		["Items"] = {
+			["useCut"] = {
+				["value"] = true,
+			},
+			["useGhost"] = {
+				["value"] = true,
+			},
+			["useBork"] = {
+				["value"] = true,
+			},
+			["useElixir"] = {
+				["value"] = true,
+			},
+		},
+		["Keys"] = {
+			["comboKey"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+		},
+	},
+	["Xayah"] = {
+		["Combo"] = {
+			["W"] = {
+				["value"] = true,
+			},
+			["comboKey"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+			["R"] = {
+				["value"] = false,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+		},
+		["Misc"] = {
+			["Ignite"] = {
+				["value"] = true,
+			},
+		},
+		["KS"] = {
+			["R"] = {
+				["value"] = true,
+			},
+			["W"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+		},
+		["LaneClear"] = {
+			["laneclearKey"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["W"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["[GoS-U] Utility"] = {
+		["Draws"] = {
+			["DrawJng"] = {
+				["value"] = true,
+			},
+			["DrawAA"] = {
+				["value"] = false,
+			},
+		},
+		["LevelUp"] = {
+			["LvlUp"] = {
+				["value"] = false,
+			},
+		},
+		["BaseUlt"] = {
+			["BU"] = {
+				["value"] = true,
+			},
+		},
+		["SS"] = {
+			["UseSave"] = {
+				["value"] = true,
+			},
+			["HealMe"] = {
+				["value"] = 15,
+			},
+			["BarrierMe"] = {
+				["value"] = 15,
+			},
+			["UseHeal"] = {
+				["value"] = true,
+			},
+			["HealAlly"] = {
+				["value"] = 15,
+			},
+			["UseBarrier"] = {
+				["value"] = true,
+			},
+		},
+		["Items"] = {
+			["UseMS"] = {
+				["value"] = true,
+			},
+			["UseQS"] = {
+				["value"] = true,
+			},
+			["UseBOTRK"] = {
+				["value"] = true,
+			},
+			["OI"] = {
+				["value"] = 35,
+			},
+			["UseHG"] = {
+				["value"] = true,
+			},
+			["UseBC"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["IOWMalphite"] = {
+		["f"] = {
+			["dmgpred"] = {
+				["value"] = 1,
+			},
+		},
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["c"] = {
+			["sticky"] = {
+				["value"] = false,
+			},
+			["ts"] = {
+				["focus"] = false,
+				["mode"] = 1,
+			},
+			["wtt"] = {
+				["value"] = true,
+			},
+			["Humanizer"] = {
+				["value"] = true,
+			},
+		},
+		["d"] = {
+			["ecirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 0,
+					["b"] = 0,
+					["a"] = 155,
+				},
+			},
+			["scirclequal"] = {
+				["value"] = 4,
+			},
+			["scirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 255,
+					["b"] = 255,
+					["a"] = 255,
+				},
+			},
+			["m"] = {
+			},
+			["sdrawcircle"] = {
+				["value"] = false,
+			},
+			["ecirclequal"] = {
+				["value"] = 4,
+			},
+			["edrawcircle"] = {
+				["value"] = false,
+			},
+			["lh"] = {
+				["value"] = false,
+			},
+			["s"] = {
+			},
+			["e"] = {
+			},
+		},
+		["s"] = {
+			["stick"] = {
+				["value"] = 250,
+			},
+			["stop"] = {
+				["value"] = 80,
+			},
+		},
+	},
+	["darius"] = {
+		["Laneclear"] = {
+			["Q"] = {
+				["value"] = true,
+			},
+			["W"] = {
+				["value"] = true,
+			},
+		},
+		["Harass"] = {
+			["Q"] = {
+				["value"] = true,
+			},
+			["W"] = {
+				["value"] = true,
+			},
+		},
+		["Combo"] = {
+			["Q"] = {
+				["value"] = true,
+			},
+			["W"] = {
+				["value"] = true,
+			},
+			["useItems"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+		},
+		["ksteal"] = {
+			["R"] = {
+				["value"] = true,
+			},
+		},
+		["draws"] = {
+			["edraw"] = {
+				["value"] = false,
+			},
+			["qdraw"] = {
+				["value"] = false,
+			},
+			["rdraw"] = {
+				["value"] = false,
+			},
+			["rhpdraw"] = {
+				["value"] = false,
+			},
+			["tdraw"] = {
+				["value"] = false,
+			},
+		},
+		["misc"] = {
+			["skin"] = {
+				["value"] = 1,
+			},
+		},
+	},
+	["Orbwalker"] = {
+		["orb"] = {
+			["value"] = 2,
+		},
+	},
+	["PWDrMundo"] = {
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["s1"] = {
+			["f"] = {
+				["fak2"] = {
+					["value"] = true,
+				},
+				["dmgpred"] = {
+					["value"] = 1,
+				},
+				["fak1"] = {
+					["value"] = true,
+				},
+				["fak3"] = {
+					["value"] = true,
+				},
+				["fak4"] = {
+					["value"] = true,
+				},
+			},
+			["s"] = {
+				["stick"] = {
+					["value"] = 250,
+				},
+				["stop"] = {
+					["value"] = 80,
+				},
+			},
+			["d"] = {
+				["ecirclecol"] = {
+					["color"] = {
+						["r"] = 243,
+						["g"] = 90,
+						["b"] = 46,
+						["a"] = 180,
+					},
+				},
+				["scirclequal"] = {
+					["value"] = 4,
+				},
+				["scirclecol"] = {
+					["color"] = {
+						["r"] = 180,
+						["g"] = 180,
+						["b"] = 180,
+						["a"] = 180,
+					},
+				},
+				["m"] = {
+				},
+				["sdrawcircle"] = {
+					["value"] = true,
+				},
+				["ecirclequal"] = {
+					["value"] = 4,
+				},
+				["edrawcircle"] = {
+					["value"] = true,
+				},
+				["lh"] = {
+					["value"] = true,
+				},
+				["s"] = {
+				},
+				["e"] = {
+				},
+			},
+			["c"] = {
+				["sticky"] = {
+					["value"] = false,
+				},
+				["ts"] = {
+					["focus"] = false,
+					["mode"] = 1,
+				},
+				["wtt"] = {
+					["value"] = true,
+				},
+				["Humanizer"] = {
+					["value"] = true,
+				},
+			},
+		},
+	},
+	["IOWVayne"] = {
+		["f"] = {
+			["dmgpred"] = {
+				["value"] = 1,
+			},
+		},
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["s"] = {
+			["stop"] = {
+				["value"] = 65,
+			},
+		},
+		["d"] = {
+			["ecirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 0,
+					["b"] = 0,
+					["a"] = 155,
+				},
+			},
+			["scirclequal"] = {
+				["value"] = 4,
+			},
+			["scirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 255,
+					["b"] = 255,
+					["a"] = 255,
+				},
+			},
+			["m"] = {
+			},
+			["sdrawcircle"] = {
+				["value"] = true,
+			},
+			["ecirclequal"] = {
+				["value"] = 4,
+			},
+			["edrawcircle"] = {
+				["value"] = false,
+			},
+			["lh"] = {
+				["value"] = false,
+			},
+			["s"] = {
+			},
+			["e"] = {
+			},
+		},
+		["c"] = {
+			["sticky"] = {
+				["value"] = false,
+			},
+			["ts"] = {
+				["focus"] = false,
+				["mode"] = 1,
+			},
+			["Humanizer"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["LeeSin"] = {
+	},
+	["CleanVayne"] = {
+		["Harass"] = {
+			["Q"] = {
+				["use"] = {
+					["value"] = true,
+				},
+				["reset"] = {
+					["value"] = true,
+				},
+			},
+			["mana"] = {
+				["value"] = 40,
+			},
+			["E"] = {
+				["champPantheon"] = {
+					["value"] = true,
+				},
+				["champBlitzcrank"] = {
+					["value"] = true,
+				},
+				["reset"] = {
+					["value"] = true,
+				},
+				["use"] = {
+					["value"] = true,
+				},
+				["champDarius"] = {
+					["value"] = true,
+				},
+				["champDiana"] = {
+					["value"] = true,
+				},
+				["champAmumu"] = {
+					["value"] = true,
+				},
+				["range"] = {
+					["value"] = 400,
+				},
+			},
+		},
+		["draw"] = {
+			["spells"] = {
+				["value"] = false,
+			},
+			["damage"] = {
+				["value"] = false,
+			},
+			["qColor"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 255,
+					["b"] = 0,
+					["a"] = 255,
+				},
+			},
+			["q"] = {
+				["value"] = false,
+			},
+			["drawW"] = {
+				["value"] = false,
+			},
+			["eColor"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 255,
+					["b"] = 0,
+					["a"] = 255,
+				},
+			},
+			["drawAARange"] = {
+				["value"] = false,
+			},
+			["e"] = {
+				["value"] = false,
+			},
+		},
+		["Summs"] = {
+		},
+		["LaneClear"] = {
+			["Q"] = {
+				["use"] = {
+					["value"] = false,
+				},
+				["reset"] = {
+					["value"] = false,
+				},
+			},
+			["mana"] = {
+				["value"] = 40,
+			},
+		},
+		["Combo"] = {
+			["R"] = {
+				["use"] = {
+					["value"] = true,
+				},
+			},
+			["E"] = {
+				["champPantheon"] = {
+					["value"] = true,
+				},
+				["champBlitzcrank"] = {
+					["value"] = true,
+				},
+				["reset"] = {
+					["value"] = true,
+				},
+				["use"] = {
+					["value"] = true,
+				},
+				["champDarius"] = {
+					["value"] = true,
+				},
+				["champDiana"] = {
+					["value"] = true,
+				},
+				["champAmumu"] = {
+					["value"] = true,
+				},
+				["range"] = {
+					["value"] = 400,
+				},
+			},
+			["Q"] = {
+				["reset"] = {
+					["value"] = false,
+				},
+				["usePosition"] = {
+					["value"] = true,
+				},
+				["use"] = {
+					["value"] = true,
+				},
+			},
+		},
+		["KillSteal"] = {
+			["E"] = {
+				["use"] = {
+					["value"] = true,
+				},
+			},
+			["Q"] = {
+				["use"] = {
+					["value"] = true,
+				},
+			},
+		},
+		["Items"] = {
+			["qss"] = {
+				["charm"] = {
+					["value"] = true,
+				},
+				["stun"] = {
+					["value"] = true,
+				},
+				["taunt"] = {
+					["value"] = true,
+				},
+				["snare"] = {
+					["value"] = true,
+				},
+				["supression"] = {
+					["value"] = true,
+				},
+				["slow"] = {
+					["value"] = true,
+				},
+				["flee"] = {
+					["value"] = true,
+				},
+			},
+			["scimitar"] = {
+				["charm"] = {
+					["value"] = true,
+				},
+				["stun"] = {
+					["value"] = true,
+				},
+				["taunt"] = {
+					["value"] = true,
+				},
+				["snare"] = {
+					["value"] = true,
+				},
+				["supression"] = {
+					["value"] = true,
+				},
+				["slow"] = {
+					["value"] = true,
+				},
+				["flee"] = {
+					["value"] = true,
+				},
+			},
+			["bork"] = {
+				["combo"] = {
+					["value"] = true,
+				},
+				["harass"] = {
+					["value"] = true,
+				},
+			},
+			["cutlass"] = {
+				["combo"] = {
+					["value"] = true,
+				},
+				["harass"] = {
+					["value"] = true,
+				},
+			},
+			["ghostblade"] = {
+				["combo"] = {
+					["value"] = true,
+				},
+				["harass"] = {
+					["value"] = true,
+				},
+			},
+			["cleanse"] = {
+				["charm"] = {
+					["value"] = true,
+				},
+				["stun"] = {
+					["value"] = true,
+				},
+				["taunt"] = {
+					["value"] = true,
+				},
+				["snare"] = {
+					["value"] = true,
+				},
+				["supression"] = {
+					["value"] = true,
+				},
+				["slow"] = {
+					["value"] = true,
+				},
+				["flee"] = {
+					["value"] = true,
+				},
+			},
+		},
+		["LastHit"] = {
+			["Q"] = {
+				["use"] = {
+					["value"] = true,
+				},
+				["reset"] = {
+					["value"] = true,
+				},
+			},
+			["mana"] = {
+				["value"] = 40,
+			},
+		},
+	},
+	["G"] = {
+		["l"] = {
+			["Q"] = {
+				["value"] = true,
+			},
+		},
+		["cl"] = {
+			["j"] = {
+				["E"] = {
+					["value"] = true,
+				},
+				["Q"] = {
+					["value"] = true,
+				},
+			},
+			["l"] = {
+				["E"] = {
+					["value"] = true,
+				},
+				["Q"] = {
+					["value"] = true,
+				},
+			},
+		},
+		["h"] = {
+			["Q"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+			["Qrange"] = {
+				["value"] = 300,
+			},
+		},
+		["a"] = {
+			["Whp"] = {
+				["value"] = 70,
+			},
+			["W"] = {
+				["value"] = true,
+			},
+			["Wlim"] = {
+				["value"] = 1,
+			},
+		},
+		["c"] = {
+			["Q"] = {
+				["value"] = false,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+			["Qrange"] = {
+				["value"] = 300,
+			},
+		},
+		["s"] = {
+			["skin"] = {
+				["value"] = 1,
+			},
+		},
+		["d"] = {
+			["dt"] = {
+				["R"] = {
+					["value"] = false,
+				},
+				["Stats"] = {
+					["value"] = false,
+				},
+			},
+			["ds"] = {
+				["R"] = {
+					["value"] = false,
+				},
+				["E"] = {
+					["value"] = false,
+				},
+			},
+		},
+		["u"] = {
+			["R"] = {
+				["value"] = false,
+			},
+			["black"] = {
+				["LoBoX YT"] = {
+					["value"] = true,
+				},
+				["lipe0704"] = {
+					["value"] = true,
+				},
+				["ClovinhoXD"] = {
+					["value"] = true,
+				},
+				["Shacagado"] = {
+					["value"] = true,
+				},
+				["SwagMyLove"] = {
+					["value"] = true,
+				},
+			},
+		},
+	},
+	["[GoS-U] Draven"] = {
+		["Harass"] = {
+			["UseE"] = {
+				["value"] = true,
+			},
+			["UseQ"] = {
+				["value"] = true,
+			},
+			["MP"] = {
+				["value"] = 0,
+			},
+			["UseW"] = {
+				["value"] = true,
+			},
+		},
+		["Combo"] = {
+			["Distance"] = {
+				["value"] = 2000,
+			},
+			["X"] = {
+				["value"] = 1,
+			},
+			["UseW"] = {
+				["value"] = true,
+			},
+			["UseE"] = {
+				["value"] = true,
+			},
+			["UseQ"] = {
+				["value"] = true,
+			},
+			["UseR"] = {
+				["value"] = true,
+			},
+			["HP"] = {
+				["value"] = 40,
+			},
+		},
+		["Interrupter"] = {
+			["Distance"] = {
+				["value"] = 700,
+			},
+			["UseE"] = {
+				["value"] = true,
+			},
+		},
+		["LaneClear"] = {
+			["UseE"] = {
+				["value"] = false,
+			},
+			["UseQ"] = {
+				["value"] = true,
+			},
+			["MP"] = {
+				["value"] = 40,
+			},
+		},
+		["Drawings"] = {
+			["DrawR"] = {
+				["value"] = false,
+			},
+			["DrawDMG"] = {
+				["value"] = false,
+			},
+			["DrawE"] = {
+				["value"] = false,
+			},
+		},
+		["KillSteal"] = {
+			["Distance"] = {
+				["value"] = 7300,
+			},
+			["UseR"] = {
+				["value"] = true,
+			},
+			["UseE"] = {
+				["value"] = true,
+			},
+		},
+		["Prediction"] = {
+			["PredictionR"] = {
+				["value"] = 2,
+			},
+			["PredictionE"] = {
+				["value"] = 2,
+			},
+		},
+		["AntiGapcloser"] = {
+			["Distance"] = {
+				["value"] = 400,
+			},
+			["UseE"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["IOWLissandra"] = {
+		["f"] = {
+			["dmgpred"] = {
+				["value"] = 1,
+			},
+		},
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["c"] = {
+			["sticky"] = {
+				["value"] = false,
+			},
+			["ts"] = {
+				["focus"] = false,
+				["mode"] = 1,
+			},
+			["Humanizer"] = {
+				["value"] = true,
+			},
+		},
+		["d"] = {
+			["ecirclecol"] = {
+				["color"] = {
+					["b"] = 0,
+					["g"] = 0,
+					["r"] = 255,
+					["a"] = 155,
+				},
+			},
+			["scirclequal"] = {
+				["value"] = 4,
+			},
+			["scirclecol"] = {
+				["color"] = {
+					["b"] = 255,
+					["g"] = 255,
+					["r"] = 255,
+					["a"] = 255,
+				},
+			},
+			["m"] = {
+			},
+			["sdrawcircle"] = {
+				["value"] = false,
+			},
+			["ecirclequal"] = {
+				["value"] = 4,
+			},
+			["edrawcircle"] = {
+				["value"] = false,
+			},
+			["lh"] = {
+				["value"] = false,
+			},
+			["s"] = {
+			},
+			["e"] = {
+			},
+		},
+		["s"] = {
+			["stop"] = {
+				["value"] = 65,
+			},
+		},
+	},
+	["GoSPrediction"] = {
+		["Collision"] = {
+			["Buffer"] = {
+				["value"] = 15,
+			},
+		},
+		["Version"] = {
+		},
+		["option"] = {
+			["value"] = 1,
+		},
+		["Author"] = {
+		},
+	},
+	["PWWarwick"] = {
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["s1"] = {
+			["f"] = {
+				["fak2"] = {
+					["value"] = true,
+				},
+				["dmgpred"] = {
+					["value"] = 1,
+				},
+				["fak1"] = {
+					["value"] = true,
+				},
+				["fak3"] = {
+					["value"] = true,
+				},
+				["fak4"] = {
+					["value"] = true,
+				},
+			},
+			["s"] = {
+				["stick"] = {
+					["value"] = 250,
+				},
+				["stop"] = {
+					["value"] = 55,
+				},
+			},
+			["d"] = {
+				["ecirclecol"] = {
+					["color"] = {
+						["r"] = 243,
+						["g"] = 90,
+						["b"] = 46,
+						["a"] = 180,
+					},
+				},
+				["scirclequal"] = {
+					["value"] = 4,
+				},
+				["scirclecol"] = {
+					["color"] = {
+						["r"] = 180,
+						["g"] = 180,
+						["b"] = 180,
+						["a"] = 180,
+					},
+				},
+				["m"] = {
+				},
+				["sdrawcircle"] = {
+					["value"] = false,
+				},
+				["ecirclequal"] = {
+					["value"] = 4,
+				},
+				["edrawcircle"] = {
+					["value"] = false,
+				},
+				["lh"] = {
+					["value"] = false,
+				},
+				["s"] = {
+				},
+				["e"] = {
+				},
+			},
+			["c"] = {
+				["sticky"] = {
+					["value"] = false,
+				},
+				["ts"] = {
+					["focus"] = false,
+					["mode"] = 1,
+				},
+				["wtt"] = {
+					["value"] = true,
+				},
+				["Humanizer"] = {
+					["value"] = true,
+				},
+			},
+		},
+	},
+	["Sejuani"] = {
+	},
+	["Challenegrs Katarina"] = {
+		["Combo"] = {
+			["R"] = {
+				["value"] = true,
+			},
+			["W"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["[T01] Katarina"] = {
+		["Misc"] = {
+			["LvlUp"] = {
+				["value"] = false,
+			},
+			["X"] = {
+				["value"] = 1,
+			},
+			["AutoLvlUp"] = {
+				["value"] = 2,
+			},
+			["UI"] = {
+				["value"] = true,
+			},
+			["HP"] = {
+				["value"] = 40,
+			},
+		},
+		["Prediction"] = {
+			["PredictionE"] = {
+				["value"] = 5,
+			},
+		},
+		["Auto"] = {
+			["UseW"] = {
+				["value"] = false,
+			},
+			["UseQ"] = {
+				["value"] = false,
+			},
+		},
+		["Harass"] = {
+			["UseE"] = {
+				["value"] = true,
+			},
+			["UseQ"] = {
+				["value"] = true,
+			},
+			["UseW"] = {
+				["value"] = true,
+			},
+			["CD"] = {
+				["value"] = true,
+			},
+		},
+		["LaneClear"] = {
+			["UseE"] = {
+				["value"] = false,
+			},
+			["UseQ"] = {
+				["value"] = false,
+			},
+			["UseW"] = {
+				["value"] = false,
+			},
+		},
+		["Combo"] = {
+			["CD"] = {
+				["value"] = false,
+			},
+			["UseE"] = {
+				["value"] = true,
+			},
+			["UseQ"] = {
+				["value"] = true,
+			},
+			["UseR"] = {
+				["value"] = true,
+			},
+			["UseW"] = {
+				["value"] = true,
+			},
+		},
+		["KillSteal"] = {
+			["UseE"] = {
+				["value"] = true,
+			},
+		},
+		["JungleClear"] = {
+			["UseE"] = {
+				["value"] = true,
+			},
+			["UseQ"] = {
+				["value"] = true,
+			},
+			["UseW"] = {
+				["value"] = true,
+			},
+		},
+		["LastHit"] = {
+			["UseQ"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["Tree"] = {
+		["SP"] = {
+			["Ignite"] = {
+				["value"] = true,
+			},
+		},
+		["Draw"] = {
+			["DrawQ"] = {
+				["value"] = false,
+			},
+			["ColourE"] = {
+				["color"] = {
+					["b"] = 120,
+					["g"] = 245,
+					["r"] = 244,
+					["a"] = 135,
+				},
+			},
+			["DrawQuality"] = {
+				["value"] = 50,
+			},
+			["ColourQ"] = {
+				["color"] = {
+					["b"] = 120,
+					["g"] = 245,
+					["r"] = 244,
+					["a"] = 135,
+				},
+			},
+			["DrawE"] = {
+				["value"] = false,
+			},
+			["ColourW"] = {
+				["color"] = {
+					["b"] = 120,
+					["g"] = 245,
+					["r"] = 244,
+					["a"] = 135,
+				},
+			},
+			["DrawW"] = {
+				["value"] = false,
+			},
+			["DrawsEb"] = {
+				["value"] = false,
+			},
+			["ColourR"] = {
+				["color"] = {
+					["b"] = 120,
+					["g"] = 245,
+					["r"] = 244,
+					["a"] = 135,
+				},
+			},
+			["DrawR"] = {
+				["value"] = false,
+			},
+		},
+		["AutoSpell"] = {
+			["value"] = false,
+		},
+		["Combo"] = {
+			["W"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+			["R"] = {
+				["value"] = true,
+			},
+			["ComboEnable"] = {
+				["value"] = true,
+			},
+			["EChance"] = {
+				["value"] = 5,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+		},
+		["Pref"] = {
+			["SpellCancel"] = {
+				["value"] = true,
+			},
+			["AutoLevel"] = {
+				["value"] = false,
+			},
+			["LvlUpType"] = {
+				["value"] = 1,
+			},
+		},
+	},
+	["IOWMorgana"] = {
+		["f"] = {
+			["dmgpred"] = {
+				["value"] = 1,
+			},
+		},
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["c"] = {
+			["sticky"] = {
+				["value"] = false,
+			},
+			["ts"] = {
+				["focus"] = false,
+				["mode"] = 1,
+			},
+			["Humanizer"] = {
+				["value"] = true,
+			},
+		},
+		["d"] = {
+			["ecirclecol"] = {
+				["color"] = {
+					["b"] = 0,
+					["g"] = 0,
+					["r"] = 255,
+					["a"] = 155,
+				},
+			},
+			["scirclequal"] = {
+				["value"] = 4,
+			},
+			["scirclecol"] = {
+				["color"] = {
+					["b"] = 255,
+					["g"] = 255,
+					["r"] = 255,
+					["a"] = 255,
+				},
+			},
+			["m"] = {
+			},
+			["sdrawcircle"] = {
+				["value"] = false,
+			},
+			["ecirclequal"] = {
+				["value"] = 4,
+			},
+			["edrawcircle"] = {
+				["value"] = false,
+			},
+			["lh"] = {
+				["value"] = false,
+			},
+			["s"] = {
+			},
+			["e"] = {
+			},
+		},
+		["s"] = {
+			["stop"] = {
+				["value"] = 65,
+			},
+		},
+	},
+	["DrMundo"] = {
+		["Drawings"] = {
+			["DrawQ"] = {
+				["value"] = false,
+			},
+		},
+		["Combo"] = {
+			["W"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["Fizz"] = {
+		["Combo"] = {
+			["W"] = {
+				["value"] = true,
+			},
+			["comboKey"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+			["R"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+		},
+		["Killsteal"] = {
+			["Q"] = {
+				["value"] = true,
+			},
+		},
+		["LaneClear"] = {
+			["laneclearKey"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["W"] = {
+				["value"] = false,
+			},
+			["E"] = {
+				["value"] = false,
+			},
+		},
+		["Harass"] = {
+			["harassKey"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["W"] = {
+				["value"] = true,
+			},
+			["Mana"] = {
+				["value"] = 30,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["PWLux"] = {
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["s1"] = {
+			["f"] = {
+				["fak2"] = {
+					["value"] = true,
+				},
+				["dmgpred"] = {
+					["value"] = 1,
+				},
+				["fak1"] = {
+					["value"] = true,
+				},
+				["fak3"] = {
+					["value"] = true,
+				},
+				["fak4"] = {
+					["value"] = true,
+				},
+			},
+			["c"] = {
+				["sticky"] = {
+					["value"] = false,
+				},
+				["ts"] = {
+					["focus"] = false,
+					["mode"] = 1,
+				},
+				["Humanizer"] = {
+					["value"] = true,
+				},
+			},
+			["d"] = {
+				["ecirclecol"] = {
+					["color"] = {
+						["b"] = 46,
+						["g"] = 90,
+						["r"] = 243,
+						["a"] = 180,
+					},
+				},
+				["scirclequal"] = {
+					["value"] = 4,
+				},
+				["scirclecol"] = {
+					["color"] = {
+						["b"] = 180,
+						["g"] = 180,
+						["r"] = 180,
+						["a"] = 180,
+					},
+				},
+				["m"] = {
+				},
+				["sdrawcircle"] = {
+					["value"] = false,
+				},
+				["ecirclequal"] = {
+					["value"] = 4,
+				},
+				["edrawcircle"] = {
+					["value"] = false,
+				},
+				["lh"] = {
+					["value"] = false,
+				},
+				["s"] = {
+				},
+				["e"] = {
+				},
+			},
+			["s"] = {
+				["stop"] = {
+					["value"] = 65,
+				},
+			},
+		},
+	},
+	["IOWMissFortune"] = {
+		["f"] = {
+			["dmgpred"] = {
+				["value"] = 1,
+			},
+		},
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["c"] = {
+			["sticky"] = {
+				["value"] = false,
+			},
+			["ts"] = {
+				["focus"] = false,
+				["mode"] = 1,
+			},
+			["Humanizer"] = {
+				["value"] = true,
+			},
+		},
+		["d"] = {
+			["ecirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 0,
+					["b"] = 0,
+					["a"] = 155,
+				},
+			},
+			["scirclequal"] = {
+				["value"] = 4,
+			},
+			["scirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 255,
+					["b"] = 255,
+					["a"] = 255,
+				},
+			},
+			["m"] = {
+			},
+			["sdrawcircle"] = {
+				["value"] = false,
+			},
+			["ecirclequal"] = {
+				["value"] = 4,
+			},
+			["edrawcircle"] = {
+				["value"] = false,
+			},
+			["lh"] = {
+				["value"] = false,
+			},
+			["s"] = {
+			},
+			["e"] = {
+			},
+		},
+		["s"] = {
+			["stop"] = {
+				["value"] = 65,
+			},
+		},
+	},
+	["IOWWarwick"] = {
+		["f"] = {
+			["dmgpred"] = {
+				["value"] = 1,
+			},
+		},
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["s"] = {
+			["stick"] = {
+				["value"] = 250,
+			},
+			["stop"] = {
+				["value"] = 55,
+			},
+		},
+		["d"] = {
+			["ecirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 0,
+					["b"] = 0,
+					["a"] = 155,
+				},
+			},
+			["scirclequal"] = {
+				["value"] = 4,
+			},
+			["scirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 255,
+					["b"] = 255,
+					["a"] = 255,
+				},
+			},
+			["m"] = {
+			},
+			["sdrawcircle"] = {
+				["value"] = false,
+			},
+			["ecirclequal"] = {
+				["value"] = 4,
+			},
+			["edrawcircle"] = {
+				["value"] = false,
+			},
+			["lh"] = {
+				["value"] = false,
+			},
+			["s"] = {
+			},
+			["e"] = {
+			},
+		},
+		["c"] = {
+			["sticky"] = {
+				["value"] = false,
+			},
+			["ts"] = {
+				["focus"] = false,
+				["mode"] = 1,
+			},
+			["wtt"] = {
+				["value"] = true,
+			},
+			["Humanizer"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["j"] = {
+		["Combo"] = {
+			["R"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Q"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["E"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+		},
+		["killsteal"] = {
+			["R"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+		},
+		["Escape"] = {
+			["EQ"] = {
+				["isToggle"] = false,
+				["key"] = 90,
+			},
+		},
+		["Shield"] = {
+			["Barrier"] = {
+				["value"] = 30,
+			},
+			["W"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+		},
+	},
+	["Amumu"] = {
+		["Harass"] = {
+			["Amumu"] = {
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+			["R"] = {
+				["value"] = true,
+			},
+			["W"] = {
+				["value"] = true,
+			},
+			["RE"] = {
+				["value"] = 2,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+		},
+		["Misc"] = {
+			["MGUN2"] = {
+				["value"] = true,
+			},
+			["MGUN"] = {
+				["value"] = true,
+			},
+			["MGUNDEB2"] = {
+				["value"] = false,
+			},
+			["DMGoHP"] = {
+				["value"] = true,
+			},
+			["MGUNSIZE2"] = {
+				["value"] = 25,
+			},
+			["Amumu"] = {
+			},
+			["MGUNSIZE"] = {
+				["value"] = 30,
+			},
+			["MGUNX"] = {
+				["value"] = 60,
+			},
+			["MGUNY2"] = {
+				["value"] = 785,
+			},
+			["MGUNX2"] = {
+				["value"] = 700,
+			},
+			["MGUNY"] = {
+				["value"] = 200,
+			},
+			["MGUNDEB"] = {
+				["value"] = false,
+			},
+		},
+		["Combo"] = {
+			["Amumu"] = {
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+			["R"] = {
+				["value"] = true,
+			},
+			["W"] = {
+				["value"] = false,
+			},
+			["RE"] = {
+				["value"] = 3,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+		},
+		["LaneClear"] = {
+			["W"] = {
+				["value"] = true,
+			},
+			["EC"] = {
+				["value"] = 4,
+			},
+			["WC"] = {
+				["value"] = 4,
+			},
+			["Amumu"] = {
+			},
+			["WC2"] = {
+				["value"] = 1,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+		},
+		["Drawings"] = {
+			["R"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+		},
+		["JungleClear"] = {
+			["W"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+		},
+		["Interrupt"] = {
+			["Amumu"] = {
+			},
+			["InterruptR"] = {
+				["value"] = true,
+			},
+			["InterruptQ"] = {
+				["value"] = true,
+			},
+		},
+		["KS"] = {
+			["QE"] = {
+				["value"] = false,
+			},
+			["RE"] = {
+				["value"] = 3,
+			},
+			["RE3"] = {
+				["value"] = 3,
+			},
+			["Amumu"] = {
+			},
+			["QER"] = {
+				["value"] = false,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+			["R"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+			["RE2"] = {
+				["value"] = 3,
+			},
+			["QR"] = {
+				["value"] = false,
+			},
+		},
+	},
+	["[T01] Fizz"] = {
+		["Misc"] = {
+			["AutoLvlUp"] = {
+				["value"] = 6,
+			},
+			["LvlUp"] = {
+				["value"] = false,
+			},
+			["X"] = {
+				["value"] = 1,
+			},
+			["HP"] = {
+				["value"] = 40,
+			},
+		},
+		["Prediction"] = {
+			["PredictionR"] = {
+				["value"] = 2,
+			},
+		},
+		["Auto"] = {
+			["UseE"] = {
+				["value"] = true,
+			},
+		},
+		["Harass"] = {
+			["UseE"] = {
+				["value"] = true,
+			},
+			["UseQ"] = {
+				["value"] = true,
+			},
+			["MP"] = {
+				["value"] = 40,
+			},
+			["UseW"] = {
+				["value"] = true,
+			},
+		},
+		["LaneClear"] = {
+			["UseE"] = {
+				["value"] = true,
+			},
+			["UseQ"] = {
+				["value"] = true,
+			},
+			["MP"] = {
+				["value"] = 40,
+			},
+			["UseW"] = {
+				["value"] = false,
+			},
+		},
+		["Combo"] = {
+			["UseE"] = {
+				["value"] = true,
+			},
+			["UseQ"] = {
+				["value"] = true,
+			},
+			["UseR"] = {
+				["value"] = true,
+			},
+			["UseW"] = {
+				["value"] = true,
+			},
+		},
+		["KillSteal"] = {
+			["UseQ"] = {
+				["value"] = true,
+			},
+		},
+		["JungleClear"] = {
+			["UseE"] = {
+				["value"] = true,
+			},
+			["UseQ"] = {
+				["value"] = true,
+			},
+			["UseW"] = {
+				["value"] = true,
+			},
+		},
+		["LastHit"] = {
+			["MP"] = {
+				["value"] = 40,
+			},
+			["UseW"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["TahmKench"] = {
+	},
+	["mainMenu"] = {
+		["Combo"] = {
+			["W"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["IOWAnnie"] = {
+		["f"] = {
+			["dmgpred"] = {
+				["value"] = 1,
+			},
+		},
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["c"] = {
+			["sticky"] = {
+				["value"] = false,
+			},
+			["ts"] = {
+				["focus"] = false,
+				["mode"] = 1,
+			},
+			["Humanizer"] = {
+				["value"] = true,
+			},
+		},
+		["d"] = {
+			["ecirclecol"] = {
+				["color"] = {
+					["b"] = 0,
+					["g"] = 0,
+					["r"] = 255,
+					["a"] = 155,
+				},
+			},
+			["scirclequal"] = {
+				["value"] = 4,
+			},
+			["scirclecol"] = {
+				["color"] = {
+					["b"] = 255,
+					["g"] = 255,
+					["r"] = 255,
+					["a"] = 255,
+				},
+			},
+			["m"] = {
+			},
+			["sdrawcircle"] = {
+				["value"] = false,
+			},
+			["ecirclequal"] = {
+				["value"] = 4,
+			},
+			["edrawcircle"] = {
+				["value"] = false,
+			},
+			["lh"] = {
+				["value"] = false,
+			},
+			["s"] = {
+			},
+			["e"] = {
+			},
+		},
+		["s"] = {
+			["stop"] = {
+				["value"] = 55,
+			},
+		},
+	},
+	["DACR"] = {
+		["Hotkeys"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["Configuration"] = {
+			["AttackPets"] = {
+				["value"] = true,
+			},
+			["AttackBarrel"] = {
+				["value"] = true,
+			},
+			["HoldZone"] = {
+				["value"] = 100,
+			},
+			["PriorizeFarm"] = {
+				["value"] = true,
+			},
+			["AttackWards"] = {
+				["value"] = false,
+			},
+		},
+		["TargetSelector"] = {
+			["FocusTargetSettings"] = {
+				["ForceFocusSelected"] = {
+					["value"] = false,
+				},
+				["FocusSelected"] = {
+					["value"] = true,
+				},
+			},
+			["TargetingMode"] = {
+				["value"] = 4,
+			},
+			["TargetSelectorMorganaPriority"] = {
+				["value"] = 2,
+			},
+			["AutoPriority"] = {
+				["value"] = true,
+			},
+		},
+		["Melee"] = {
+			["Stick"] = {
+				["value"] = true,
+			},
+		},
+		["FastKite"] = {
+			["value"] = true,
+		},
+		["Drawings"] = {
+			["Enemy"] = {
+				["value"] = false,
+			},
+			["Helper"] = {
+				["value"] = true,
+			},
+			["Me"] = {
+				["value"] = false,
+			},
+			["HoldZone"] = {
+				["value"] = false,
+			},
+		},
+		["Delay"] = {
+			["value"] = 225,
+		},
+		["ExtraWindup"] = {
+			["value"] = 60,
+		},
+		["Setup"] = {
+			["Combo"] = {
+				["Attacks"] = {
+					["value"] = true,
+				},
+				["Movement"] = {
+					["value"] = true,
+				},
+			},
+			["Harass"] = {
+				["Attacks"] = {
+					["value"] = true,
+				},
+				["Movement"] = {
+					["value"] = true,
+				},
+			},
+			["LaneClear"] = {
+				["Attacks"] = {
+					["value"] = true,
+				},
+				["Movement"] = {
+					["value"] = true,
+				},
+			},
+			["LastHit"] = {
+				["Attacks"] = {
+					["value"] = true,
+				},
+				["Movement"] = {
+					["value"] = true,
+				},
+			},
+		},
+	},
+	["Brand"] = {
+		["KS"] = {
+			["KSR"] = {
+				["value"] = true,
+			},
+			["Ignite"] = {
+				["value"] = true,
+			},
+			["KS"] = {
+				["value"] = true,
+			},
+			["KSNotes"] = {
+				["value"] = true,
+			},
+			["Percent"] = {
+				["value"] = true,
+			},
+			["DmgOverHP"] = {
+				["value"] = false,
+			},
+		},
+		["Spells"] = {
+			["QStunOnly"] = {
+				["value"] = false,
+			},
+			["KR"] = {
+				["value"] = false,
+			},
+			["AutoStun"] = {
+				["value"] = true,
+			},
+			["StunRange"] = {
+				["value"] = 450,
+			},
+		},
+		["Keys"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Priority"] = {
+				["value"] = 7,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["Draw"] = {
+			["Draw"] = {
+				["value"] = false,
+			},
+			["DW"] = {
+				["value"] = true,
+			},
+			["DE"] = {
+				["value"] = false,
+			},
+			["DR"] = {
+				["value"] = false,
+			},
+			["StunRangeDraw"] = {
+				["value"] = false,
+			},
+			["DrawB"] = {
+				["value"] = false,
+			},
+			["DQ"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["Fiora"] = {
+		["AutoMode"] = {
+			["W"] = {
+				["value"] = false,
+			},
+			["Q"] = {
+				["value"] = false,
+			},
+			["R"] = {
+				["value"] = false,
+			},
+			["E"] = {
+				["value"] = false,
+			},
+			["Ghost"] = {
+				["value"] = false,
+			},
+			["Level"] = {
+				["value"] = false,
+			},
+		},
+		["LaneClear"] = {
+			["Tiamat"] = {
+				["value"] = true,
+			},
+			["W"] = {
+				["value"] = false,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+			["RHydra"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+		},
+		["Combo"] = {
+			["Tiamat"] = {
+				["value"] = true,
+			},
+			["W"] = {
+				["value"] = true,
+			},
+			["YGB"] = {
+				["value"] = true,
+			},
+			["RHydra"] = {
+				["value"] = true,
+			},
+			["BOTRK"] = {
+				["value"] = true,
+			},
+			["RX"] = {
+				["value"] = 1,
+			},
+			["Randuins"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+			["R"] = {
+				["value"] = true,
+			},
+			["Gunblade"] = {
+				["value"] = true,
+			},
+			["Cutlass"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+		},
+		["KillSteal"] = {
+			["Q"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+		},
+		["AutoIgnite"] = {
+			["Ignite"] = {
+				["value"] = true,
+			},
+		},
+		["Harass"] = {
+			["Q"] = {
+				["value"] = true,
+			},
+			["W"] = {
+				["value"] = false,
+			},
+		},
+	},
+	["Ashe"] = {
+		["Harass"] = {
+			["WMana"] = {
+				["value"] = 50,
+			},
+			["W"] = {
+				["value"] = false,
+			},
+			["Mana"] = {
+				["value"] = 30,
+			},
+			["AutoW"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = false,
+			},
+		},
+		["JungleClear"] = {
+			["W"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+			["Mana"] = {
+				["value"] = 30,
+			},
+		},
+		["MasterYiagap"] = {
+			["value"] = true,
+		},
+		["LaneClear"] = {
+			["W"] = {
+				["value"] = false,
+			},
+			["Q"] = {
+				["value"] = false,
+			},
+			["Mana"] = {
+				["value"] = 30,
+			},
+		},
+		["Killsteal"] = {
+			["R"] = {
+				["value"] = false,
+			},
+			["W"] = {
+				["value"] = true,
+			},
+		},
+		["Combo"] = {
+			["W"] = {
+				["value"] = true,
+			},
+			["targetHP"] = {
+				["value"] = 20,
+			},
+			["QSSHP"] = {
+				["value"] = 75,
+			},
+			["myHP"] = {
+				["value"] = 50,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+			["R"] = {
+				["value"] = true,
+			},
+			["QSS"] = {
+				["value"] = true,
+			},
+			["Items"] = {
+				["value"] = true,
+			},
+			["FireKey"] = {
+				["isToggle"] = false,
+				["key"] = 84,
+			},
+		},
+		["Interrupt"] = {
+		},
+		["Malphiteagap"] = {
+			["value"] = true,
+		},
+	},
+	["IOWFiora"] = {
+		["f"] = {
+			["dmgpred"] = {
+				["value"] = 1,
+			},
+		},
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["s"] = {
+			["stick"] = {
+				["value"] = 300,
+			},
+			["stop"] = {
+				["value"] = 65,
+			},
+		},
+		["d"] = {
+			["ecirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 0,
+					["b"] = 0,
+					["a"] = 155,
+				},
+			},
+			["scirclequal"] = {
+				["value"] = 4,
+			},
+			["scirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 255,
+					["b"] = 255,
+					["a"] = 255,
+				},
+			},
+			["m"] = {
+			},
+			["sdrawcircle"] = {
+				["value"] = false,
+			},
+			["ecirclequal"] = {
+				["value"] = 4,
+			},
+			["edrawcircle"] = {
+				["value"] = false,
+			},
+			["lh"] = {
+				["value"] = false,
+			},
+			["s"] = {
+			},
+			["e"] = {
+			},
+		},
+		["c"] = {
+			["sticky"] = {
+				["value"] = false,
+			},
+			["ts"] = {
+				["focus"] = false,
+				["mode"] = 1,
+			},
+			["wtt"] = {
+				["value"] = true,
+			},
+			["Humanizer"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["[T01] Leblanc"] = {
+		["Misc"] = {
+			["AutoLvlUp"] = {
+				["value"] = 1,
+			},
+			["LvlUp"] = {
+				["value"] = true,
+			},
+			["X"] = {
+				["value"] = 1,
+			},
+			["HP"] = {
+				["value"] = 40,
+			},
+		},
+		["Prediction"] = {
+			["PredictionW"] = {
+				["value"] = 5,
+			},
+			["PredictionE"] = {
+				["value"] = 2,
+			},
+		},
+		["Auto"] = {
+			["UseE"] = {
+				["value"] = false,
+			},
+			["UseQ"] = {
+				["value"] = true,
+			},
+			["MP"] = {
+				["value"] = 40,
+			},
+		},
+		["Harass"] = {
+			["MP"] = {
+				["value"] = 40,
+			},
+			["UseE"] = {
+				["value"] = true,
+			},
+			["ModeW"] = {
+				["value"] = 2,
+			},
+			["UseW"] = {
+				["value"] = true,
+			},
+			["UseQ"] = {
+				["value"] = true,
+			},
+		},
+		["LastHit"] = {
+			["MP"] = {
+				["value"] = 40,
+			},
+			["UseQ"] = {
+				["value"] = true,
+			},
+		},
+		["LaneClear"] = {
+			["UseE"] = {
+				["value"] = true,
+			},
+			["UseQ"] = {
+				["value"] = false,
+			},
+			["MP"] = {
+				["value"] = 40,
+			},
+			["UseW"] = {
+				["value"] = true,
+			},
+		},
+		["Combo"] = {
+			["UseQ"] = {
+				["value"] = true,
+			},
+			["UseE"] = {
+				["value"] = true,
+			},
+			["ModeW"] = {
+				["value"] = 2,
+			},
+			["UseR"] = {
+				["value"] = true,
+			},
+			["UseW"] = {
+				["value"] = true,
+			},
+		},
+		["Interrupter"] = {
+			["UseE"] = {
+				["value"] = true,
+			},
+		},
+		["JungleClear"] = {
+			["UseE"] = {
+				["value"] = true,
+			},
+			["UseQ"] = {
+				["value"] = true,
+			},
+			["UseW"] = {
+				["value"] = true,
+			},
+		},
+		["AntiGapcloser"] = {
+			["UseE"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["IOWFizz"] = {
+		["f"] = {
+			["dmgpred"] = {
+				["value"] = 1,
+			},
+		},
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["c"] = {
+			["sticky"] = {
+				["value"] = false,
+			},
+			["ts"] = {
+				["focus"] = false,
+				["mode"] = 1,
+			},
+			["wtt"] = {
+				["value"] = true,
+			},
+			["Humanizer"] = {
+				["value"] = true,
+			},
+		},
+		["d"] = {
+			["ecirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 0,
+					["b"] = 0,
+					["a"] = 155,
+				},
+			},
+			["scirclequal"] = {
+				["value"] = 4,
+			},
+			["scirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 255,
+					["b"] = 255,
+					["a"] = 255,
+				},
+			},
+			["m"] = {
+			},
+			["sdrawcircle"] = {
+				["value"] = true,
+			},
+			["ecirclequal"] = {
+				["value"] = 4,
+			},
+			["edrawcircle"] = {
+				["value"] = true,
+			},
+			["lh"] = {
+				["value"] = true,
+			},
+			["s"] = {
+			},
+			["e"] = {
+			},
+		},
+		["s"] = {
+			["stick"] = {
+				["value"] = 0,
+			},
+			["stop"] = {
+				["value"] = 55,
+			},
+		},
+	},
+	["IOWThresh"] = {
+		["f"] = {
+			["dmgpred"] = {
+				["value"] = 1,
+			},
+		},
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["s"] = {
+			["stop"] = {
+				["value"] = 65,
+			},
+		},
+		["d"] = {
+			["ecirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 0,
+					["b"] = 0,
+					["a"] = 155,
+				},
+			},
+			["scirclequal"] = {
+				["value"] = 4,
+			},
+			["scirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 255,
+					["b"] = 255,
+					["a"] = 255,
+				},
+			},
+			["m"] = {
+			},
+			["sdrawcircle"] = {
+				["value"] = false,
+			},
+			["ecirclequal"] = {
+				["value"] = 4,
+			},
+			["edrawcircle"] = {
+				["value"] = false,
+			},
+			["lh"] = {
+				["value"] = false,
+			},
+			["s"] = {
+			},
+			["e"] = {
+			},
+		},
+		["c"] = {
+			["sticky"] = {
+				["value"] = false,
+			},
+			["ts"] = {
+				["focus"] = false,
+				["mode"] = 1,
+			},
+			["Humanizer"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["LeBlanc"] = {
+		["F"] = {
+			["isToggle"] = false,
+			["key"] = 71,
+		},
+		["H"] = {
+			["Q"] = {
+				["value"] = false,
+			},
+			["W"] = {
+				["value"] = false,
+			},
+			["Mana"] = {
+				["value"] = 50,
+			},
+			["E"] = {
+				["value"] = false,
+			},
+		},
+		["J"] = {
+			["W"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+			["Mana"] = {
+				["value"] = 50,
+			},
+		},
+		["K"] = {
+			["isToggle"] = false,
+			["key"] = 90,
+		},
+		["L"] = {
+			["Q"] = {
+				["value"] = true,
+			},
+			["Mana"] = {
+				["value"] = 83,
+			},
+		},
+		["P"] = {
+			["P"] = {
+				["value"] = 2,
+			},
+			["K"] = {
+				["isToggle"] = false,
+				["key"] = 84,
+			},
+		},
+		["C"] = {
+			["R"] = {
+				["value"] = true,
+			},
+			["W"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+		},
+		["D"] = {
+			["Q"] = {
+				["value"] = false,
+			},
+			["W"] = {
+				["value"] = false,
+			},
+			["E"] = {
+				["value"] = false,
+			},
+			["HP"] = {
+				["value"] = false,
+			},
+		},
+		["Skin"] = {
+			["skin"] = {
+				["value"] = 1,
+			},
+		},
+	},
+	["IOWDarius"] = {
+		["f"] = {
+			["dmgpred"] = {
+				["value"] = 1,
+			},
+		},
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["s"] = {
+			["stick"] = {
+				["value"] = 350,
+			},
+			["stop"] = {
+				["value"] = 80,
+			},
+		},
+		["d"] = {
+			["ecirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 0,
+					["b"] = 0,
+					["a"] = 155,
+				},
+			},
+			["scirclequal"] = {
+				["value"] = 4,
+			},
+			["scirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 255,
+					["b"] = 255,
+					["a"] = 255,
+				},
+			},
+			["m"] = {
+			},
+			["sdrawcircle"] = {
+				["value"] = false,
+			},
+			["ecirclequal"] = {
+				["value"] = 4,
+			},
+			["edrawcircle"] = {
+				["value"] = false,
+			},
+			["lh"] = {
+				["value"] = false,
+			},
+			["s"] = {
+			},
+			["e"] = {
+			},
+		},
+		["c"] = {
+			["sticky"] = {
+				["value"] = false,
+			},
+			["ts"] = {
+				["focus"] = false,
+				["mode"] = 1,
+			},
+			["wtt"] = {
+				["value"] = true,
+			},
+			["Humanizer"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["ADC MAIN | Sivir"] = {
+		["Combo"] = {
+			["useQ"] = {
+				["value"] = true,
+			},
+			["useW"] = {
+				["value"] = true,
+			},
+			["Combo1"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+		},
+		["AutoE"] = {
+			["CC"] = {
+				["value"] = true,
+			},
+		},
+		["Items"] = {
+			["useCut"] = {
+				["value"] = true,
+			},
+			["useGhost"] = {
+				["value"] = true,
+			},
+			["useBork"] = {
+				["value"] = true,
+			},
+			["useRedPot"] = {
+				["value"] = true,
+			},
+		},
+		["Harass"] = {
+			["useW"] = {
+				["value"] = true,
+			},
+			["useQ"] = {
+				["value"] = true,
+			},
+			["Harass1"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["Mana"] = {
+				["value"] = 60,
+			},
+		},
+	},
+	["Menu_Base"] = {
+		["h"] = 23,
+		["width"] = 200,
+		["x"] = 15,
+		["y"] = -5,
+	},
+	["GoSWalkMissFortune"] = {
+		["Combo"] = {
+			["isToggle"] = false,
+			["key"] = 32,
+		},
+		["Misc"] = {
+			["FarmDelay"] = {
+				["value"] = 0,
+			},
+			["HoldPosRadius"] = {
+				["value"] = 65,
+			},
+			["ExtraWindUpTime"] = {
+				["value"] = 62,
+			},
+		},
+		["Clear"] = {
+			["isToggle"] = false,
+			["key"] = 86,
+		},
+		["Draw"] = {
+			["DrawAA"] = {
+				["value"] = true,
+			},
+			["cQuality"] = {
+				["value"] = 20,
+			},
+			["Target"] = {
+				["value"] = false,
+			},
+			["DrawMinionLasthit"] = {
+				["value"] = false,
+			},
+			["DrawEnemy"] = {
+				["value"] = false,
+			},
+		},
+		["Mixed"] = {
+			["isToggle"] = false,
+			["key"] = 67,
+		},
+		["Lasthit"] = {
+			["isToggle"] = false,
+			["key"] = 88,
+		},
+		["Mastery"] = {
+			["Savagery"] = {
+				["value"] = 0,
+			},
+			["Oppressor"] = {
+				["value"] = false,
+			},
+			["Double"] = {
+				["value"] = false,
+			},
+			["BountyHunter"] = {
+				["value"] = false,
+			},
+		},
+		["SupportMode"] = {
+			["value"] = false,
+		},
+	},
+	["Jax"] = {
+		["AutoMode"] = {
+			["W"] = {
+				["value"] = false,
+			},
+			["Q"] = {
+				["value"] = false,
+			},
+			["R"] = {
+				["value"] = false,
+			},
+			["Ghost"] = {
+				["value"] = false,
+			},
+			["E"] = {
+				["value"] = false,
+			},
+		},
+		["LaneClear"] = {
+			["Tiamat"] = {
+				["value"] = true,
+			},
+			["W"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+			["RHydra"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+		},
+		["Combo"] = {
+			["Tiamat"] = {
+				["value"] = true,
+			},
+			["W"] = {
+				["value"] = true,
+			},
+			["YGB"] = {
+				["value"] = true,
+			},
+			["RHydra"] = {
+				["value"] = true,
+			},
+			["BOTRK"] = {
+				["value"] = true,
+			},
+			["RX"] = {
+				["value"] = 2,
+			},
+			["Randuins"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+			["R"] = {
+				["value"] = true,
+			},
+			["Gunblade"] = {
+				["value"] = true,
+			},
+			["Cutlass"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+		},
+		["KillSteal"] = {
+			["Q"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+		},
+		["AutoIgnite"] = {
+			["Ignite"] = {
+				["value"] = true,
+			},
+		},
+		["Harass"] = {
+			["Q"] = {
+				["value"] = true,
+			},
+			["W"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["[T01] Yasuo"] = {
+		["Misc"] = {
+			["LvlUp"] = {
+				["value"] = false,
+			},
+			["X"] = {
+				["value"] = 1,
+			},
+			["AutoLvlUp"] = {
+				["value"] = 2,
+			},
+			["UI"] = {
+				["value"] = true,
+			},
+			["HP"] = {
+				["value"] = 40,
+			},
+		},
+		["Prediction"] = {
+			["PredictionQ"] = {
+				["value"] = 2,
+			},
+			["PredictionQ3"] = {
+				["value"] = 2,
+			},
+		},
+		["Auto"] = {
+			["UseQ"] = {
+				["value"] = true,
+			},
+			["UseW"] = {
+				["value"] = true,
+			},
+			["UseQ3"] = {
+				["value"] = true,
+			},
+		},
+		["Harass"] = {
+			["UseE"] = {
+				["value"] = true,
+			},
+			["UseQ"] = {
+				["value"] = true,
+			},
+			["UseQ3"] = {
+				["value"] = true,
+			},
+		},
+		["Interrupter"] = {
+			["UseQ3"] = {
+				["value"] = true,
+			},
+		},
+		["LaneClear"] = {
+			["UseE"] = {
+				["value"] = false,
+			},
+			["UseQ"] = {
+				["value"] = true,
+			},
+			["UseQ3"] = {
+				["value"] = true,
+			},
+		},
+		["Combo"] = {
+			["UseE"] = {
+				["value"] = true,
+			},
+			["UseQ3"] = {
+				["value"] = true,
+			},
+			["UseR"] = {
+				["value"] = true,
+			},
+			["UseQ"] = {
+				["value"] = true,
+			},
+		},
+		["KillSteal"] = {
+			["UseR"] = {
+				["value"] = true,
+			},
+		},
+		["JungleClear"] = {
+			["UseE"] = {
+				["value"] = true,
+			},
+			["UseQ"] = {
+				["value"] = true,
+			},
+			["UseQ3"] = {
+				["value"] = true,
+			},
+		},
+		["LastHit"] = {
+			["UseE"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["SBMorgana"] = {
+		["Draw"] = {
+			["W"] = {
+				["value"] = false,
+			},
+			["Q"] = {
+				["value"] = false,
+			},
+			["R"] = {
+				["value"] = false,
+			},
+			["Root"] = {
+				["value"] = false,
+			},
+			["E"] = {
+				["value"] = false,
+			},
+		},
+		["Qset"] = {
+			["Combo"] = {
+				["value"] = true,
+			},
+			["Immobile"] = {
+				["value"] = true,
+			},
+			["Harass"] = {
+				["value"] = true,
+			},
+		},
+		["Wset"] = {
+			["Combo"] = {
+				["value"] = true,
+			},
+			["Immobile"] = {
+				["value"] = true,
+			},
+			["Harass"] = {
+				["value"] = true,
+			},
+		},
+		["AG"] = {
+			["MasterYiagap"] = {
+				["value"] = true,
+			},
+		},
+		["KS"] = {
+			["Q"] = {
+				["value"] = true,
+			},
+			["W"] = {
+				["value"] = true,
+			},
+		},
+		["Eset"] = {
+			["Spell"] = {
+				["value"] = true,
+			},
+		},
+		["Rset"] = {
+			["AutoR"] = {
+				["value"] = true,
+			},
+			["Min"] = {
+				["value"] = 1,
+			},
+		},
+		["Key"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+		},
+	},
+	["PWDiana"] = {
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["s1"] = {
+			["f"] = {
+				["fak2"] = {
+					["value"] = true,
+				},
+				["dmgpred"] = {
+					["value"] = 1,
+				},
+				["fak1"] = {
+					["value"] = true,
+				},
+				["fak3"] = {
+					["value"] = true,
+				},
+				["fak4"] = {
+					["value"] = true,
+				},
+			},
+			["c"] = {
+				["sticky"] = {
+					["value"] = false,
+				},
+				["ts"] = {
+					["focus"] = false,
+					["mode"] = 1,
+				},
+				["wtt"] = {
+					["value"] = true,
+				},
+				["Humanizer"] = {
+					["value"] = true,
+				},
+			},
+			["d"] = {
+				["ecirclecol"] = {
+					["color"] = {
+						["b"] = 46,
+						["g"] = 90,
+						["r"] = 243,
+						["a"] = 180,
+					},
+				},
+				["scirclequal"] = {
+					["value"] = 4,
+				},
+				["scirclecol"] = {
+					["color"] = {
+						["b"] = 180,
+						["g"] = 180,
+						["r"] = 180,
+						["a"] = 180,
+					},
+				},
+				["m"] = {
+				},
+				["sdrawcircle"] = {
+					["value"] = false,
+				},
+				["ecirclequal"] = {
+					["value"] = 4,
+				},
+				["edrawcircle"] = {
+					["value"] = false,
+				},
+				["lh"] = {
+					["value"] = false,
+				},
+				["s"] = {
+				},
+				["e"] = {
+				},
+			},
+			["s"] = {
+				["stick"] = {
+					["value"] = 300,
+				},
+				["stop"] = {
+					["value"] = 65,
+				},
+			},
+		},
+	},
+	["IOWRumble"] = {
+		["f"] = {
+			["dmgpred"] = {
+				["value"] = 1,
+			},
+		},
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["s"] = {
+			["stick"] = {
+				["value"] = 250,
+			},
+			["stop"] = {
+				["value"] = 80,
+			},
+		},
+		["d"] = {
+			["ecirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 0,
+					["b"] = 0,
+					["a"] = 155,
+				},
+			},
+			["scirclequal"] = {
+				["value"] = 4,
+			},
+			["scirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 255,
+					["b"] = 255,
+					["a"] = 255,
+				},
+			},
+			["m"] = {
+			},
+			["sdrawcircle"] = {
+				["value"] = false,
+			},
+			["ecirclequal"] = {
+				["value"] = 4,
+			},
+			["edrawcircle"] = {
+				["value"] = false,
+			},
+			["lh"] = {
+				["value"] = false,
+			},
+			["s"] = {
+			},
+			["e"] = {
+			},
+		},
+		["c"] = {
+			["sticky"] = {
+				["value"] = false,
+			},
+			["ts"] = {
+				["focus"] = false,
+				["mode"] = 1,
+			},
+			["wtt"] = {
+				["value"] = true,
+			},
+			["Humanizer"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["SBBlitzcrank"] = {
+		["nil"] = {
+		},
+		["Draw"] = {
+			["Pos"] = {
+				["value"] = false,
+			},
+			["Stat"] = {
+				["value"] = false,
+			},
+			["Q"] = {
+				["value"] = false,
+			},
+		},
+		["Gset"] = {
+			["Max"] = {
+				["value"] = 925,
+			},
+			["Min"] = {
+				["value"] = 300,
+			},
+			["Dash"] = {
+				["value"] = false,
+			},
+		},
+		["Tset"] = {
+			["Pantheon"] = {
+				["value"] = 2,
+			},
+			["Kayn"] = {
+				["value"] = 2,
+			},
+			["Rammus"] = {
+				["value"] = 2,
+			},
+			["Vayne"] = {
+				["value"] = 2,
+			},
+			["Lissandra"] = {
+				["value"] = 2,
+			},
+		},
+		["Grab"] = {
+			["isToggle"] = false,
+			["key"] = 67,
+		},
+		["Rset"] = {
+			["KS"] = {
+				["value"] = true,
+			},
+			["Min"] = {
+				["value"] = 2,
+			},
+		},
+		["Active"] = {
+			["isToggle"] = false,
+			["key"] = 32,
+		},
+	},
+	["IOWPoppy"] = {
+		["f"] = {
+			["dmgpred"] = {
+				["value"] = 1,
+			},
+		},
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["c"] = {
+			["sticky"] = {
+				["value"] = false,
+			},
+			["ts"] = {
+				["focus"] = false,
+				["mode"] = 1,
+			},
+			["Humanizer"] = {
+				["value"] = true,
+			},
+		},
+		["d"] = {
+			["ecirclecol"] = {
+				["color"] = {
+					["b"] = 0,
+					["g"] = 0,
+					["r"] = 255,
+					["a"] = 155,
+				},
+			},
+			["scirclequal"] = {
+				["value"] = 4,
+			},
+			["scirclecol"] = {
+				["color"] = {
+					["b"] = 255,
+					["g"] = 255,
+					["r"] = 255,
+					["a"] = 255,
+				},
+			},
+			["m"] = {
+			},
+			["sdrawcircle"] = {
+				["value"] = false,
+			},
+			["ecirclequal"] = {
+				["value"] = 4,
+			},
+			["edrawcircle"] = {
+				["value"] = false,
+			},
+			["lh"] = {
+				["value"] = false,
+			},
+			["s"] = {
+			},
+			["e"] = {
+			},
+		},
+		["s"] = {
+			["stop"] = {
+				["value"] = 55,
+			},
+		},
+	},
+	["Nasus"] = {
+		["Misc"] = {
+			["Ignite"] = {
+				["value"] = false,
+			},
+			["AR"] = {
+				["value"] = true,
+			},
+		},
+		["LaneClear"] = {
+			["LQ"] = {
+				["value"] = true,
+			},
+			["LE"] = {
+				["value"] = false,
+			},
+		},
+		["Drawings"] = {
+			["DW"] = {
+				["value"] = false,
+			},
+			["DE"] = {
+				["value"] = false,
+			},
+		},
+		["Combo"] = {
+			["W"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+		},
+		["Killsteal"] = {
+			["KE"] = {
+				["value"] = true,
+			},
+			["KQ"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["DAC"] = {
+		["Hotkeys"] = {
+			["Flee"] = {
+				["isToggle"] = false,
+				["key"] = 84,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneFreeze"] = {
+				["value"] = false,
+				["isToggle"] = true,
+				["key"] = 72,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["Humanizer"] = {
+			["humanizeMovement"] = {
+				["value"] = true,
+			},
+		},
+		["Advanced"] = {
+			["WindUpType"] = {
+				["value"] = 1,
+			},
+			["FarmOffsetType"] = {
+				["value"] = 1,
+			},
+			["WindUpAmount"] = {
+				["value"] = 0,
+			},
+			["FarmOffsetAmount"] = {
+				["value"] = 0,
+			},
+			["disableCancelDetect"] = {
+				["value"] = false,
+			},
+		},
+		["Drawings"] = {
+			["allyrange"] = {
+				["value"] = false,
+			},
+			["range"] = {
+				["value"] = false,
+			},
+			["enemyrange"] = {
+				["value"] = false,
+			},
+			["HoldZone"] = {
+				["value"] = false,
+			},
+		},
+		["ts"] = {
+			["focus"] = true,
+			["mode"] = 1,
+		},
+		["Configuration"] = {
+			["AttackStructures"] = {
+				["value"] = true,
+			},
+			["HoldZone"] = {
+				["value"] = 100,
+			},
+		},
+		["Setup"] = {
+			["Combo"] = {
+				["Attacks"] = {
+					["value"] = true,
+				},
+				["Movement"] = {
+					["value"] = true,
+				},
+			},
+			["Harass"] = {
+				["Attacks"] = {
+					["value"] = true,
+				},
+				["Movement"] = {
+					["value"] = true,
+				},
+				["MinionPriority"] = {
+					["value"] = true,
+				},
+			},
+			["LaneClear"] = {
+				["Attacks"] = {
+					["value"] = true,
+				},
+				["Movement"] = {
+					["value"] = true,
+				},
+			},
+			["LastHit"] = {
+				["Attacks"] = {
+					["value"] = true,
+				},
+				["Movement"] = {
+					["value"] = true,
+				},
+			},
+		},
+	},
+	["IOWXinZhao"] = {
+		["f"] = {
+			["dmgpred"] = {
+				["value"] = 1,
+			},
+		},
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["s"] = {
+			["stick"] = {
+				["value"] = 350,
+			},
+			["stop"] = {
+				["value"] = 65,
+			},
+		},
+		["d"] = {
+			["ecirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 0,
+					["b"] = 0,
+					["a"] = 155,
+				},
+			},
+			["scirclequal"] = {
+				["value"] = 4,
+			},
+			["scirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 255,
+					["b"] = 255,
+					["a"] = 255,
+				},
+			},
+			["m"] = {
+			},
+			["sdrawcircle"] = {
+				["value"] = false,
+			},
+			["ecirclequal"] = {
+				["value"] = 4,
+			},
+			["edrawcircle"] = {
+				["value"] = false,
+			},
+			["lh"] = {
+				["value"] = false,
+			},
+			["s"] = {
+			},
+			["e"] = {
+			},
+		},
+		["c"] = {
+			["sticky"] = {
+				["value"] = false,
+			},
+			["ts"] = {
+				["focus"] = false,
+				["mode"] = 1,
+			},
+			["wtt"] = {
+				["value"] = true,
+			},
+			["Humanizer"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["TargetSelectorEx"] = {
+		["nil2"] = {
+		},
+		["TargetMode"] = {
+			["value"] = 1,
+		},
+		["AutoPriority"] = {
+			["value"] = true,
+		},
+		["TargetSelectorJannaPriority"] = {
+			["value"] = 3,
+		},
+		["TargetSelectorMonkeyKingPriority"] = {
+			["value"] = 1,
+		},
+		["nil"] = {
+		},
+		["TargetSelectorAniviaPriority"] = {
+			["value"] = 4,
+		},
+		["FocusTarget"] = {
+			["Enable"] = {
+				["value"] = true,
+			},
+			["Draw"] = {
+				["value"] = true,
+			},
+		},
+		["TargetSelectorAnniePriority"] = {
+			["value"] = 4,
+		},
+		["TargetSelectorZoePriority"] = {
+			["value"] = 1,
+		},
+	},
+	["IOWPantheon"] = {
+		["f"] = {
+			["dmgpred"] = {
+				["value"] = 1,
+			},
+		},
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["s"] = {
+			["stick"] = {
+				["value"] = 300,
+			},
+			["stop"] = {
+				["value"] = 65,
+			},
+		},
+		["d"] = {
+			["ecirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 0,
+					["b"] = 0,
+					["a"] = 155,
+				},
+			},
+			["scirclequal"] = {
+				["value"] = 4,
+			},
+			["scirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 255,
+					["b"] = 255,
+					["a"] = 255,
+				},
+			},
+			["m"] = {
+			},
+			["sdrawcircle"] = {
+				["value"] = false,
+			},
+			["ecirclequal"] = {
+				["value"] = 4,
+			},
+			["edrawcircle"] = {
+				["value"] = false,
+			},
+			["lh"] = {
+				["value"] = false,
+			},
+			["s"] = {
+			},
+			["e"] = {
+			},
+		},
+		["c"] = {
+			["sticky"] = {
+				["value"] = false,
+			},
+			["ts"] = {
+				["focus"] = false,
+				["mode"] = 1,
+			},
+			["wtt"] = {
+				["value"] = true,
+			},
+			["Humanizer"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["NEETSeries"] = {
+		["Plugin"] = {
+			["value"] = true,
+		},
+		["Tracker"] = {
+			["value"] = true,
+		},
+		["ifo2"] = {
+		},
+		["ifo"] = {
+		},
+	},
+	["Katarina [Jace]"] = {
+		["DR"] = {
+			["W"] = {
+				["value"] = false,
+			},
+			["Q"] = {
+				["value"] = false,
+			},
+			["R"] = {
+				["value"] = false,
+			},
+			["E"] = {
+				["value"] = false,
+			},
+			["Dagas"] = {
+				["value"] = false,
+			},
+		},
+		["Keys"] = {
+			["ManualR"] = {
+				["isToggle"] = false,
+				["key"] = 82,
+			},
+			["ComboKat"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+		},
+		["CK"] = {
+			["CQ"] = {
+				["value"] = true,
+			},
+			["CE"] = {
+				["value"] = true,
+			},
+			["CW"] = {
+				["value"] = true,
+			},
+			["CanItems"] = {
+				["value"] = true,
+			},
+			["CR"] = {
+				["value"] = true,
+			},
+			["CountR"] = {
+				["value"] = 1,
+			},
+			["CRC"] = {
+				["value"] = true,
+			},
+		},
+		["AL"] = {
+			["EQE"] = {
+				["value"] = false,
+			},
+			["ALV"] = {
+				["value"] = false,
+			},
+		},
+	},
+	["IOWYasuo"] = {
+		["f"] = {
+			["dmgpred"] = {
+				["value"] = 1,
+			},
+		},
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["c"] = {
+			["sticky"] = {
+				["value"] = false,
+			},
+			["ts"] = {
+				["focus"] = false,
+				["mode"] = 1,
+			},
+			["wtt"] = {
+				["value"] = true,
+			},
+			["Humanizer"] = {
+				["value"] = true,
+			},
+		},
+		["d"] = {
+			["ecirclecol"] = {
+				["color"] = {
+					["b"] = 0,
+					["g"] = 0,
+					["r"] = 255,
+					["a"] = 155,
+				},
+			},
+			["scirclequal"] = {
+				["value"] = 4,
+			},
+			["scirclecol"] = {
+				["color"] = {
+					["b"] = 255,
+					["g"] = 255,
+					["r"] = 255,
+					["a"] = 255,
+				},
+			},
+			["m"] = {
+			},
+			["sdrawcircle"] = {
+				["value"] = false,
+			},
+			["ecirclequal"] = {
+				["value"] = 4,
+			},
+			["edrawcircle"] = {
+				["value"] = false,
+			},
+			["lh"] = {
+				["value"] = false,
+			},
+			["s"] = {
+			},
+			["e"] = {
+			},
+		},
+		["s"] = {
+			["stick"] = {
+				["value"] = 350,
+			},
+			["stop"] = {
+				["value"] = 65,
+			},
+		},
+	},
+	["IOWDraven"] = {
+		["f"] = {
+			["dmgpred"] = {
+				["value"] = 1,
+			},
+		},
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["c"] = {
+			["sticky"] = {
+				["value"] = false,
+			},
+			["ts"] = {
+				["focus"] = false,
+				["mode"] = 1,
+			},
+			["Humanizer"] = {
+				["value"] = true,
+			},
+		},
+		["d"] = {
+			["ecirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 0,
+					["b"] = 0,
+					["a"] = 155,
+				},
+			},
+			["scirclequal"] = {
+				["value"] = 4,
+			},
+			["scirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 255,
+					["b"] = 255,
+					["a"] = 255,
+				},
+			},
+			["m"] = {
+			},
+			["sdrawcircle"] = {
+				["value"] = false,
+			},
+			["ecirclequal"] = {
+				["value"] = 4,
+			},
+			["edrawcircle"] = {
+				["value"] = false,
+			},
+			["lh"] = {
+				["value"] = false,
+			},
+			["s"] = {
+			},
+			["e"] = {
+			},
+		},
+		["s"] = {
+			["stop"] = {
+				["value"] = 65,
+			},
+		},
+	},
+	["IOWDrMundo"] = {
+		["f"] = {
+			["dmgpred"] = {
+				["value"] = 1,
+			},
+		},
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["s"] = {
+			["stick"] = {
+				["value"] = 0,
+			},
+			["stop"] = {
+				["value"] = 80,
+			},
+		},
+		["d"] = {
+			["ecirclecol"] = {
+				["color"] = {
+					["b"] = 0,
+					["g"] = 0,
+					["r"] = 255,
+					["a"] = 155,
+				},
+			},
+			["scirclequal"] = {
+				["value"] = 4,
+			},
+			["scirclecol"] = {
+				["color"] = {
+					["b"] = 255,
+					["g"] = 255,
+					["r"] = 255,
+					["a"] = 255,
+				},
+			},
+			["m"] = {
+			},
+			["sdrawcircle"] = {
+				["value"] = false,
+			},
+			["ecirclequal"] = {
+				["value"] = 4,
+			},
+			["edrawcircle"] = {
+				["value"] = false,
+			},
+			["lh"] = {
+				["value"] = false,
+			},
+			["s"] = {
+			},
+			["e"] = {
+			},
+		},
+		["c"] = {
+			["sticky"] = {
+				["value"] = false,
+			},
+			["ts"] = {
+				["focus"] = false,
+				["mode"] = 1,
+			},
+			["wtt"] = {
+				["value"] = false,
+			},
+			["Humanizer"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["Malphite"] = {
+		["Misc"] = {
+			["ARC"] = {
+				["value"] = 3,
+			},
+			["AROC"] = {
+				["value"] = 3,
+			},
+			["AR"] = {
+				["value"] = true,
+			},
+			["AutoLevel"] = {
+				["value"] = false,
+			},
+			["UI"] = {
+				["value"] = true,
+			},
+			["ARO"] = {
+				["value"] = true,
+			},
+			["AutoI"] = {
+				["value"] = true,
+			},
+		},
+		["LaneClear"] = {
+			["LCQ"] = {
+				["value"] = true,
+			},
+			["LCW"] = {
+				["value"] = true,
+			},
+			["MMLC"] = {
+				["value"] = 60,
+			},
+			["LCE"] = {
+				["value"] = true,
+			},
+		},
+		["Combo"] = {
+			["CQ"] = {
+				["value"] = true,
+			},
+			["CE"] = {
+				["value"] = true,
+			},
+			["CI"] = {
+				["value"] = true,
+			},
+			["CR"] = {
+				["value"] = false,
+			},
+			["CW"] = {
+				["value"] = true,
+			},
+			["MMC"] = {
+				["value"] = 0,
+			},
+		},
+		["KillSteal"] = {
+			["KSR"] = {
+				["value"] = true,
+			},
+			["KSE"] = {
+				["value"] = true,
+			},
+			["KSQ"] = {
+				["value"] = true,
+			},
+		},
+		["Harass"] = {
+			["HQ"] = {
+				["value"] = false,
+			},
+			["MMH"] = {
+				["value"] = 60,
+			},
+			["HW"] = {
+				["value"] = false,
+			},
+			["HE"] = {
+				["value"] = false,
+			},
+		},
+		["LastHit"] = {
+			["MMLH"] = {
+				["value"] = 60,
+			},
+			["LHQ"] = {
+				["value"] = true,
+			},
+			["LHE"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["PWKatarina"] = {
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["s1"] = {
+			["f"] = {
+				["fak2"] = {
+					["value"] = true,
+				},
+				["dmgpred"] = {
+					["value"] = 1,
+				},
+				["fak1"] = {
+					["value"] = true,
+				},
+				["fak3"] = {
+					["value"] = true,
+				},
+				["fak4"] = {
+					["value"] = true,
+				},
+			},
+			["c"] = {
+				["sticky"] = {
+					["value"] = false,
+				},
+				["ts"] = {
+					["focus"] = false,
+					["mode"] = 1,
+				},
+				["wtt"] = {
+					["value"] = true,
+				},
+				["Humanizer"] = {
+					["value"] = true,
+				},
+			},
+			["d"] = {
+				["ecirclecol"] = {
+					["color"] = {
+						["b"] = 46,
+						["g"] = 90,
+						["r"] = 243,
+						["a"] = 180,
+					},
+				},
+				["scirclequal"] = {
+					["value"] = 4,
+				},
+				["scirclecol"] = {
+					["color"] = {
+						["b"] = 180,
+						["g"] = 180,
+						["r"] = 180,
+						["a"] = 180,
+					},
+				},
+				["m"] = {
+				},
+				["sdrawcircle"] = {
+					["value"] = true,
+				},
+				["ecirclequal"] = {
+					["value"] = 4,
+				},
+				["edrawcircle"] = {
+					["value"] = true,
+				},
+				["lh"] = {
+					["value"] = true,
+				},
+				["s"] = {
+				},
+				["e"] = {
+				},
+			},
+			["s"] = {
+				["stick"] = {
+					["value"] = 250,
+				},
+				["stop"] = {
+					["value"] = 65,
+				},
+			},
+		},
+	},
+	["GoSWalkDarius"] = {
+		["Combo"] = {
+			["isToggle"] = false,
+			["key"] = 32,
+		},
+		["Misc"] = {
+			["FarmDelay"] = {
+				["value"] = 0,
+			},
+			["HoldPosRadius"] = {
+				["value"] = 65,
+			},
+			["ExtraWindUpTime"] = {
+				["value"] = 62,
+			},
+		},
+		["Clear"] = {
+			["isToggle"] = false,
+			["key"] = 86,
+		},
+		["Draw"] = {
+			["DrawAA"] = {
+				["value"] = true,
+			},
+			["cQuality"] = {
+				["value"] = 20,
+			},
+			["Target"] = {
+				["value"] = false,
+			},
+			["DrawMinionLasthit"] = {
+				["value"] = false,
+			},
+			["DrawEnemy"] = {
+				["value"] = false,
+			},
+		},
+		["Mixed"] = {
+			["isToggle"] = false,
+			["key"] = 67,
+		},
+		["Lasthit"] = {
+			["isToggle"] = false,
+			["key"] = 88,
+		},
+		["Mastery"] = {
+			["Savagery"] = {
+				["value"] = 0,
+			},
+			["Oppressor"] = {
+				["value"] = false,
+			},
+			["Double"] = {
+				["value"] = false,
+			},
+			["BountyHunter"] = {
+				["value"] = false,
+			},
+		},
+		["SupportMode"] = {
+			["value"] = false,
+		},
+	},
+	["IOWMasterYi"] = {
+		["f"] = {
+			["dmgpred"] = {
+				["value"] = 1,
+			},
+		},
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["s"] = {
+			["stick"] = {
+				["value"] = 250,
+			},
+			["stop"] = {
+				["value"] = 65,
+			},
+		},
+		["d"] = {
+			["ecirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 0,
+					["b"] = 0,
+					["a"] = 155,
+				},
+			},
+			["scirclequal"] = {
+				["value"] = 4,
+			},
+			["scirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 255,
+					["b"] = 255,
+					["a"] = 255,
+				},
+			},
+			["m"] = {
+			},
+			["sdrawcircle"] = {
+				["value"] = false,
+			},
+			["ecirclequal"] = {
+				["value"] = 4,
+			},
+			["edrawcircle"] = {
+				["value"] = false,
+			},
+			["lh"] = {
+				["value"] = false,
+			},
+			["s"] = {
+			},
+			["e"] = {
+			},
+		},
+		["c"] = {
+			["sticky"] = {
+				["value"] = false,
+			},
+			["ts"] = {
+				["focus"] = false,
+				["mode"] = 1,
+			},
+			["wtt"] = {
+				["value"] = true,
+			},
+			["Humanizer"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["IOWGaren"] = {
+		["f"] = {
+			["dmgpred"] = {
+				["value"] = 1,
+			},
+		},
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["c"] = {
+			["sticky"] = {
+				["value"] = false,
+			},
+			["ts"] = {
+				["focus"] = false,
+				["mode"] = 1,
+			},
+			["wtt"] = {
+				["value"] = true,
+			},
+			["Humanizer"] = {
+				["value"] = true,
+			},
+		},
+		["d"] = {
+			["ecirclecol"] = {
+				["color"] = {
+					["b"] = 0,
+					["g"] = 0,
+					["r"] = 255,
+					["a"] = 155,
+				},
+			},
+			["scirclequal"] = {
+				["value"] = 4,
+			},
+			["scirclecol"] = {
+				["color"] = {
+					["b"] = 255,
+					["g"] = 255,
+					["r"] = 255,
+					["a"] = 255,
+				},
+			},
+			["m"] = {
+			},
+			["sdrawcircle"] = {
+				["value"] = false,
+			},
+			["ecirclequal"] = {
+				["value"] = 4,
+			},
+			["edrawcircle"] = {
+				["value"] = false,
+			},
+			["lh"] = {
+				["value"] = false,
+			},
+			["s"] = {
+			},
+			["e"] = {
+			},
+		},
+		["s"] = {
+			["stick"] = {
+				["value"] = 350,
+			},
+			["stop"] = {
+				["value"] = 65,
+			},
+		},
+	},
+	["[T01] MasterYi"] = {
+		["Auto"] = {
+			["UseQ"] = {
+				["value"] = false,
+			},
+		},
+		["Misc"] = {
+			["LvlUp"] = {
+				["value"] = false,
+			},
+			["X"] = {
+				["value"] = 1,
+			},
+			["AutoLvlUp"] = {
+				["value"] = 2,
+			},
+			["UI"] = {
+				["value"] = true,
+			},
+			["HP"] = {
+				["value"] = 40,
+			},
+		},
+		["LaneClear"] = {
+			["UseE"] = {
+				["value"] = true,
+			},
+			["UseQ"] = {
+				["value"] = true,
+			},
+			["MP"] = {
+				["value"] = 40,
+			},
+		},
+		["Combo"] = {
+			["UseE"] = {
+				["value"] = true,
+			},
+			["UseQ"] = {
+				["value"] = true,
+			},
+			["UseR"] = {
+				["value"] = true,
+			},
+		},
+		["KillSteal"] = {
+			["UseQ"] = {
+				["value"] = true,
+			},
+		},
+		["Harass"] = {
+			["UseE"] = {
+				["value"] = true,
+			},
+			["UseQ"] = {
+				["value"] = true,
+			},
+			["MP"] = {
+				["value"] = 40,
+			},
+		},
+		["JungleClear"] = {
+			["UseE"] = {
+				["value"] = true,
+			},
+			["UseQ"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["Akali"] = {
+		["Misc"] = {
+			["AutoWP"] = {
+				["value"] = 20,
+			},
+			["AZ"] = {
+				["value"] = true,
+			},
+			["AL"] = {
+				["UAL"] = {
+					["value"] = false,
+				},
+				["ALQ"] = {
+					["value"] = false,
+				},
+				["ALE"] = {
+					["value"] = false,
+				},
+			},
+			["AutoW"] = {
+				["value"] = true,
+			},
+			["AutoWX"] = {
+				["value"] = 3,
+			},
+			["AZC"] = {
+				["value"] = 20,
+			},
+			["AutoWE"] = {
+				["value"] = true,
+			},
+			["AutoI"] = {
+				["value"] = true,
+			},
+		},
+		["KillSteal"] = {
+			["KSG"] = {
+				["value"] = true,
+			},
+			["KSC"] = {
+				["value"] = true,
+			},
+			["KSR"] = {
+				["value"] = true,
+			},
+			["KSE"] = {
+				["value"] = true,
+			},
+			["KSQ"] = {
+				["value"] = true,
+			},
+		},
+		["LaneClear"] = {
+			["E"] = {
+				["value"] = true,
+			},
+			["EnergyManager"] = {
+				["value"] = 0,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+		},
+		["Combo"] = {
+			["ComboEnergyManager"] = {
+				["value"] = 0,
+			},
+			["HTGB"] = {
+				["value"] = true,
+			},
+			["HPHTGB"] = {
+				["value"] = 100,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+			["R"] = {
+				["value"] = true,
+			},
+			["TH"] = {
+				["value"] = true,
+			},
+			["BWC"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+		},
+		["SkinChanger"] = {
+			["skin"] = {
+				["value"] = 1,
+			},
+		},
+		["Escape"] = {
+			["ESCR"] = {
+				["value"] = true,
+			},
+		},
+		["LastHit"] = {
+			["ELH"] = {
+				["value"] = true,
+			},
+			["ALHEnergyManager"] = {
+				["value"] = 0,
+			},
+			["QLH"] = {
+				["value"] = true,
+			},
+			["ALHQ"] = {
+				["value"] = false,
+			},
+			["LHEnergyManager"] = {
+				["value"] = 0,
+			},
+		},
+	},
+	["GoSWalkKatarina"] = {
+		["Combo"] = {
+			["isToggle"] = false,
+			["key"] = 32,
+		},
+		["Misc"] = {
+			["FarmDelay"] = {
+				["value"] = 0,
+			},
+			["HoldPosRadius"] = {
+				["value"] = 65,
+			},
+			["ExtraWindUpTime"] = {
+				["value"] = 62,
+			},
+		},
+		["Clear"] = {
+			["isToggle"] = false,
+			["key"] = 86,
+		},
+		["Draw"] = {
+			["DrawAA"] = {
+				["value"] = true,
+			},
+			["cQuality"] = {
+				["value"] = 20,
+			},
+			["Target"] = {
+				["value"] = false,
+			},
+			["DrawMinionLasthit"] = {
+				["value"] = false,
+			},
+			["DrawEnemy"] = {
+				["value"] = false,
+			},
+		},
+		["Mixed"] = {
+			["isToggle"] = false,
+			["key"] = 67,
+		},
+		["Lasthit"] = {
+			["isToggle"] = false,
+			["key"] = 88,
+		},
+		["Mastery"] = {
+			["Savagery"] = {
+				["value"] = 0,
+			},
+			["Oppressor"] = {
+				["value"] = false,
+			},
+			["Double"] = {
+				["value"] = false,
+			},
+			["BountyHunter"] = {
+				["value"] = false,
+			},
+		},
+		["SupportMode"] = {
+			["value"] = false,
+		},
+	},
+	["IOWAmumu"] = {
+		["f"] = {
+			["dmgpred"] = {
+				["value"] = 1,
+			},
+		},
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["s"] = {
+			["stick"] = {
+				["value"] = 250,
+			},
+			["stop"] = {
+				["value"] = 55,
+			},
+		},
+		["d"] = {
+			["ecirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 0,
+					["b"] = 0,
+					["a"] = 155,
+				},
+			},
+			["scirclequal"] = {
+				["value"] = 4,
+			},
+			["scirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 255,
+					["b"] = 255,
+					["a"] = 255,
+				},
+			},
+			["m"] = {
+			},
+			["sdrawcircle"] = {
+				["value"] = true,
+			},
+			["ecirclequal"] = {
+				["value"] = 4,
+			},
+			["edrawcircle"] = {
+				["value"] = true,
+			},
+			["lh"] = {
+				["value"] = true,
+			},
+			["s"] = {
+			},
+			["e"] = {
+			},
+		},
+		["c"] = {
+			["sticky"] = {
+				["value"] = false,
+			},
+			["ts"] = {
+				["focus"] = false,
+				["mode"] = 1,
+			},
+			["wtt"] = {
+				["value"] = true,
+			},
+			["Humanizer"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["IOWSinged"] = {
+		["f"] = {
+			["dmgpred"] = {
+				["value"] = 1,
+			},
+		},
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["s"] = {
+			["stick"] = {
+				["value"] = 250,
+			},
+			["stop"] = {
+				["value"] = 65,
+			},
+		},
+		["d"] = {
+			["ecirclecol"] = {
+				["color"] = {
+					["b"] = 0,
+					["g"] = 0,
+					["r"] = 255,
+					["a"] = 155,
+				},
+			},
+			["scirclequal"] = {
+				["value"] = 4,
+			},
+			["scirclecol"] = {
+				["color"] = {
+					["b"] = 255,
+					["g"] = 255,
+					["r"] = 255,
+					["a"] = 255,
+				},
+			},
+			["m"] = {
+			},
+			["sdrawcircle"] = {
+				["value"] = false,
+			},
+			["ecirclequal"] = {
+				["value"] = 4,
+			},
+			["edrawcircle"] = {
+				["value"] = false,
+			},
+			["lh"] = {
+				["value"] = false,
+			},
+			["s"] = {
+			},
+			["e"] = {
+			},
+		},
+		["c"] = {
+			["sticky"] = {
+				["value"] = false,
+			},
+			["ts"] = {
+				["focus"] = false,
+				["mode"] = 1,
+			},
+			["wtt"] = {
+				["value"] = true,
+			},
+			["Humanizer"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["MoTPoppy"] = {
+	},
+	["Kayn"] = {
+	},
+	["IOWBlitzcrank"] = {
+		["f"] = {
+			["dmgpred"] = {
+				["value"] = 1,
+			},
+		},
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["s"] = {
+			["stick"] = {
+				["value"] = 250,
+			},
+			["stop"] = {
+				["value"] = 80,
+			},
+		},
+		["d"] = {
+			["ecirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 0,
+					["b"] = 0,
+					["a"] = 155,
+				},
+			},
+			["scirclequal"] = {
+				["value"] = 4,
+			},
+			["scirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 255,
+					["b"] = 255,
+					["a"] = 255,
+				},
+			},
+			["m"] = {
+			},
+			["sdrawcircle"] = {
+				["value"] = false,
+			},
+			["ecirclequal"] = {
+				["value"] = 4,
+			},
+			["edrawcircle"] = {
+				["value"] = false,
+			},
+			["lh"] = {
+				["value"] = false,
+			},
+			["s"] = {
+			},
+			["e"] = {
+			},
+		},
+		["c"] = {
+			["sticky"] = {
+				["value"] = false,
+			},
+			["ts"] = {
+				["focus"] = false,
+				["mode"] = 1,
+			},
+			["wtt"] = {
+				["value"] = true,
+			},
+			["Humanizer"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["Rumble"] = {
+		["Harass"] = {
+			["Q"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+		},
+		["Drawings"] = {
+			["DR"] = {
+				["value"] = false,
+			},
+			["DQ"] = {
+				["value"] = false,
+			},
+			["DE"] = {
+				["value"] = false,
+			},
+		},
+		["AutoMode"] = {
+			["W"] = {
+				["value"] = false,
+			},
+			["Q"] = {
+				["value"] = false,
+			},
+			["E"] = {
+				["value"] = false,
+			},
+			["Ghost"] = {
+				["value"] = false,
+			},
+			["Level"] = {
+				["value"] = false,
+			},
+		},
+		["LaneClear"] = {
+			["Q"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+		},
+		["Combo"] = {
+			["W"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+			["R"] = {
+				["value"] = true,
+			},
+			["Rpred"] = {
+				["value"] = 3,
+			},
+			["Epred"] = {
+				["value"] = 3,
+			},
+			["RX"] = {
+				["value"] = 2,
+			},
+		},
+		["SkinChanger"] = {
+			["Skin"] = {
+				["value"] = true,
+			},
+			["SelectedSkin"] = {
+				["value"] = 1,
+			},
+		},
+		["AutoIgnite"] = {
+			["Ignite"] = {
+				["value"] = false,
+			},
+		},
+		["KillSteal"] = {
+			["R"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["Diana"] = {
+		["Combo"] = {
+			["useQ"] = {
+				["value"] = true,
+			},
+			["useW"] = {
+				["value"] = true,
+			},
+			["useE"] = {
+				["value"] = true,
+			},
+			["minionJumper"] = {
+				["value"] = false,
+			},
+			["freeELO"] = {
+				["value"] = false,
+			},
+			["Burst"] = {
+				["value"] = false,
+			},
+			["useR"] = {
+				["value"] = true,
+			},
+			["Combo1"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+		},
+		["Flee"] = {
+			["useFlee"] = {
+				["value"] = true,
+			},
+			["checkRange"] = {
+				["value"] = 300,
+			},
+			["Flee1"] = {
+				["isToggle"] = false,
+				["key"] = 65,
+			},
+			["drawChecker"] = {
+				["value"] = true,
+			},
+		},
+		["Jungle"] = {
+			["useQ"] = {
+				["value"] = true,
+			},
+			["Jungle1"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["useW"] = {
+				["value"] = true,
+			},
+		},
+		["Harass"] = {
+			["wMana"] = {
+				["value"] = 40,
+			},
+			["Harass1"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["useQ"] = {
+				["value"] = true,
+			},
+			["qMana"] = {
+				["value"] = 60,
+			},
+			["useW"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["IOWXayah"] = {
+		["f"] = {
+			["dmgpred"] = {
+				["value"] = 1,
+			},
+		},
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["s"] = {
+			["stop"] = {
+				["value"] = 65,
+			},
+		},
+		["d"] = {
+			["ecirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 0,
+					["b"] = 0,
+					["a"] = 155,
+				},
+			},
+			["scirclequal"] = {
+				["value"] = 4,
+			},
+			["scirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 255,
+					["b"] = 255,
+					["a"] = 255,
+				},
+			},
+			["m"] = {
+			},
+			["sdrawcircle"] = {
+				["value"] = false,
+			},
+			["ecirclequal"] = {
+				["value"] = 4,
+			},
+			["edrawcircle"] = {
+				["value"] = false,
+			},
+			["lh"] = {
+				["value"] = false,
+			},
+			["s"] = {
+			},
+			["e"] = {
+			},
+		},
+		["c"] = {
+			["sticky"] = {
+				["value"] = false,
+			},
+			["ts"] = {
+				["focus"] = false,
+				["mode"] = 1,
+			},
+			["Humanizer"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["PWAhri"] = {
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["s1"] = {
+			["f"] = {
+				["fak2"] = {
+					["value"] = true,
+				},
+				["dmgpred"] = {
+					["value"] = 1,
+				},
+				["fak1"] = {
+					["value"] = true,
+				},
+				["fak3"] = {
+					["value"] = true,
+				},
+				["fak4"] = {
+					["value"] = true,
+				},
+			},
+			["s"] = {
+				["stop"] = {
+					["value"] = 65,
+				},
+			},
+			["d"] = {
+				["ecirclecol"] = {
+					["color"] = {
+						["b"] = 46,
+						["g"] = 90,
+						["r"] = 243,
+						["a"] = 180,
+					},
+				},
+				["scirclequal"] = {
+					["value"] = 4,
+				},
+				["scirclecol"] = {
+					["color"] = {
+						["b"] = 180,
+						["g"] = 180,
+						["r"] = 180,
+						["a"] = 180,
+					},
+				},
+				["m"] = {
+				},
+				["sdrawcircle"] = {
+					["value"] = true,
+				},
+				["ecirclequal"] = {
+					["value"] = 4,
+				},
+				["edrawcircle"] = {
+					["value"] = true,
+				},
+				["lh"] = {
+					["value"] = true,
+				},
+				["s"] = {
+				},
+				["e"] = {
+				},
+			},
+			["c"] = {
+				["sticky"] = {
+					["value"] = false,
+				},
+				["ts"] = {
+					["focus"] = false,
+					["mode"] = 1,
+				},
+				["Humanizer"] = {
+					["value"] = true,
+				},
+			},
+		},
+	},
+	["JBWarwick"] = {
+		["Qset"] = {
+			["MinRange"] = {
+				["value"] = 180,
+			},
+			["LaneClear"] = {
+				["value"] = true,
+			},
+			["Smart"] = {
+				["value"] = true,
+			},
+			["Combo"] = {
+				["value"] = true,
+			},
+			["JungleClear"] = {
+				["value"] = true,
+			},
+			["CastQ"] = {
+				["isToggle"] = false,
+				["key"] = 81,
+			},
+		},
+		["Draw"] = {
+			["R"] = {
+				["value"] = false,
+			},
+			["E"] = {
+				["value"] = false,
+			},
+			["Q"] = {
+				["value"] = false,
+			},
+			["miniR"] = {
+				["value"] = false,
+			},
+		},
+		["Eset"] = {
+			["Combo"] = {
+				["value"] = true,
+			},
+			["JungleClear"] = {
+				["value"] = true,
+			},
+			["SmartE"] = {
+				["value"] = false,
+			},
+			["Combo2"] = {
+				["value"] = true,
+			},
+		},
+		["Rset"] = {
+			["Combo"] = {
+				["value"] = true,
+			},
+			["AimR"] = {
+				["isToggle"] = false,
+				["key"] = 84,
+			},
+			["DontuseRon"] = {
+				["DontuseRonAnnie"] = {
+					["value"] = false,
+				},
+				["DontuseRonPoppy"] = {
+					["value"] = false,
+				},
+				["DontuseRonVayne"] = {
+					["value"] = false,
+				},
+				["DontuseRonCaitlyn"] = {
+					["value"] = false,
+				},
+				["DontuseRonGaren"] = {
+					["value"] = false,
+				},
+			},
+		},
+		["Key"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+		},
+	},
+	["PA:Metempsychosis Annie"] = {
+		["Misc"] = {
+			["ft"] = {
+				["n"] = {
+					["value"] = 3,
+				},
+				["stun"] = {
+					["value"] = true,
+				},
+				["r"] = {
+					["value"] = 1000,
+				},
+			},
+			["numult"] = {
+				["value"] = 3,
+			},
+			["autoult"] = {
+				["value"] = 2,
+			},
+			["autoQ"] = {
+				["value"] = false,
+			},
+			["as"] = {
+				["value"] = true,
+			},
+		},
+		["Keys"] = {
+			["ft"] = {
+				["isToggle"] = false,
+				["key"] = 90,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LastHitT"] = {
+				["value"] = false,
+				["isToggle"] = true,
+				["key"] = 74,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["Mana"] = {
+			["LaneClear"] = {
+				["R"] = {
+					["value"] = 50,
+				},
+				["W"] = {
+					["value"] = 30,
+				},
+				["E"] = {
+					["value"] = 10,
+				},
+				["Q"] = {
+					["value"] = 20,
+				},
+			},
+			["Killsteal"] = {
+				["R"] = {
+					["value"] = 0,
+				},
+				["W"] = {
+					["value"] = 0,
+				},
+				["E"] = {
+					["value"] = 0,
+				},
+				["Q"] = {
+					["value"] = 0,
+				},
+			},
+			["Harass"] = {
+				["R"] = {
+					["value"] = 50,
+				},
+				["W"] = {
+					["value"] = 40,
+				},
+				["E"] = {
+					["value"] = 20,
+				},
+				["Q"] = {
+					["value"] = 20,
+				},
+			},
+			["Combo"] = {
+				["R"] = {
+					["value"] = 0,
+				},
+				["W"] = {
+					["value"] = 0,
+				},
+				["E"] = {
+					["value"] = 0,
+				},
+				["Q"] = {
+					["value"] = 0,
+				},
+			},
+			["LastHit"] = {
+				["R"] = {
+					["value"] = 50,
+				},
+				["W"] = {
+					["value"] = 50,
+				},
+				["E"] = {
+					["value"] = 10,
+				},
+				["Q"] = {
+					["value"] = 20,
+				},
+			},
+		},
+		["Harass"] = {
+			["R"] = {
+				["value"] = true,
+			},
+			["W"] = {
+				["value"] = false,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+		},
+		["LaneClear"] = {
+			["W"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+			["R"] = {
+				["value"] = false,
+			},
+			["stun"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = false,
+			},
+		},
+		["Killsteal"] = {
+			["R"] = {
+				["value"] = true,
+			},
+			["W"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+		},
+		["Combo"] = {
+			["R"] = {
+				["value"] = true,
+			},
+			["W"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+		},
+		["Draw"] = {
+			["W"] = {
+				["Wc"] = {
+					["color"] = {
+						["b"] = 175,
+						["g"] = 155,
+						["r"] = 25,
+						["a"] = 255,
+					},
+				},
+				["W"] = {
+					["value"] = false,
+				},
+				["Woom"] = {
+					["value"] = false,
+				},
+				["Wcd"] = {
+					["value"] = false,
+				},
+			},
+			["Q"] = {
+				["Qoom"] = {
+					["value"] = false,
+				},
+				["Q"] = {
+					["value"] = false,
+				},
+				["Qc"] = {
+					["color"] = {
+						["b"] = 175,
+						["g"] = 155,
+						["r"] = 25,
+						["a"] = 255,
+					},
+				},
+				["Qcd"] = {
+					["value"] = false,
+				},
+			},
+			["R"] = {
+				["Rcd"] = {
+					["value"] = false,
+				},
+				["Room"] = {
+					["value"] = false,
+				},
+				["R"] = {
+					["value"] = false,
+				},
+				["Rc"] = {
+					["color"] = {
+						["b"] = 175,
+						["g"] = 155,
+						["r"] = 25,
+						["a"] = 255,
+					},
+				},
+			},
+			["DmgDraw"] = {
+				["value"] = false,
+			},
+			["E"] = {
+				["Eoom"] = {
+					["value"] = false,
+				},
+				["E"] = {
+					["value"] = false,
+				},
+				["Ec"] = {
+					["color"] = {
+						["b"] = 175,
+						["g"] = 155,
+						["r"] = 25,
+						["a"] = 255,
+					},
+				},
+				["Ecd"] = {
+					["value"] = false,
+				},
+			},
+		},
+		["LastHit"] = {
+			["W"] = {
+				["value"] = false,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+			["R"] = {
+				["value"] = false,
+			},
+			["stun"] = {
+				["value"] = true,
+			},
+			["E"] = {
+				["value"] = false,
+			},
+		},
+	},
+	["Lucian"] = {
+	},
+	["IOWAhri"] = {
+		["f"] = {
+			["dmgpred"] = {
+				["value"] = 1,
+			},
+		},
+		["h"] = {
+			["Combo"] = {
+				["isToggle"] = false,
+				["key"] = 32,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["LaneClear"] = {
+				["isToggle"] = false,
+				["key"] = 86,
+			},
+			["LastHit"] = {
+				["isToggle"] = false,
+				["key"] = 88,
+			},
+		},
+		["s"] = {
+			["stop"] = {
+				["value"] = 65,
+			},
+		},
+		["d"] = {
+			["ecirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 0,
+					["b"] = 0,
+					["a"] = 155,
+				},
+			},
+			["scirclequal"] = {
+				["value"] = 4,
+			},
+			["scirclecol"] = {
+				["color"] = {
+					["r"] = 255,
+					["g"] = 255,
+					["b"] = 255,
+					["a"] = 255,
+				},
+			},
+			["m"] = {
+			},
+			["sdrawcircle"] = {
+				["value"] = false,
+			},
+			["ecirclequal"] = {
+				["value"] = 4,
+			},
+			["edrawcircle"] = {
+				["value"] = false,
+			},
+			["lh"] = {
+				["value"] = false,
+			},
+			["s"] = {
+			},
+			["e"] = {
+			},
+		},
+		["c"] = {
+			["sticky"] = {
+				["value"] = false,
+			},
+			["ts"] = {
+				["focus"] = false,
+				["mode"] = 1,
+			},
+			["Humanizer"] = {
+				["value"] = true,
+			},
+		},
+	},
+	["Thresh"] = {
+		["Misc"] = {
+			["AroundAlly"] = {
+				["value"] = 2,
+			},
+			["AutoR"] = {
+				["value"] = true,
+			},
+			["Lantern"] = {
+				["isToggle"] = false,
+				["key"] = 71,
+			},
+			["SaveAlly"] = {
+				["value"] = true,
+			},
+			["Autoignite"] = {
+				["value"] = true,
+			},
+			["cc"] = {
+				["value"] = true,
+			},
+			["AutoRmin"] = {
+				["value"] = 1,
+			},
+			["AntiDash"] = {
+				["value"] = true,
+			},
+		},
+		["Drawings"] = {
+			["W"] = {
+				["value"] = false,
+			},
+			["Q"] = {
+				["value"] = false,
+			},
+			["R"] = {
+				["value"] = false,
+			},
+			["E"] = {
+				["value"] = false,
+			},
+			["DrawText"] = {
+				["value"] = false,
+			},
+			["DrawAlly"] = {
+				["value"] = false,
+			},
+		},
+		["Combo"] = {
+			["Rmin"] = {
+				["value"] = 3,
+			},
+			["W"] = {
+				["value"] = true,
+			},
+			["ThrowLantern"] = {
+				["value"] = 1,
+			},
+			["Q2"] = {
+				["value"] = true,
+			},
+			["Q"] = {
+				["value"] = true,
+			},
+			["R"] = {
+				["value"] = true,
+			},
+			["EMode"] = {
+				["value"] = 1,
+			},
+			["Harass"] = {
+				["isToggle"] = false,
+				["key"] = 67,
+			},
+			["E"] = {
+				["value"] = true,
+			},
+		},
+		["Interrupt"] = {
+			["SupportedSpells"] = {
+				["Q"] = {
+					["value"] = true,
+				},
+				["E"] = {
+					["value"] = true,
+				},
+			},
+		},
+		["Dianaagap"] = {
+			["value"] = true,
+		},
+	},
+}

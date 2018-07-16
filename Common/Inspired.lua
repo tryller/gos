@@ -1,0 +1,1 @@
+--deprecated library, data embedded into GoS
