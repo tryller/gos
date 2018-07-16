@@ -43,7 +43,8 @@ config.Misc:Boolean("AutoI", "Auto Ignite", true)
 config.Misc:Boolean("AZ", "Auto Zhonyas", true)
 config.Misc:Slider("AZC", "HP to Auto Zhonyas",10,1,100,1)
 
-config:SubMenu("Escape", "Escape, Hold G")
+config:SubMenu("Escape", "Escape Mode")
+config.Escape:Key("Key", "Escape Key", string.byte("Z"))
 config.Escape:Boolean("ESCR", "Use R", true)
 
 ts = TargetSelector(myHero:GetSpellData(_Q).range, TARGET_LOW_HP, DAMAGE_MAGIC, true)
@@ -55,15 +56,15 @@ local AnimationQ = 0
 function Mode()
     if _G.IOW_Loaded and IOW:Mode() then
         return IOW:Mode()
-        elseif _G.PW_Loaded and PW:Mode() then
+	elseif _G.PW_Loaded and PW:Mode() then
         return PW:Mode()
-        elseif _G.DAC_Loaded and DAC:Mode() then
+	elseif _G.DAC_Loaded and DAC:Mode() then
         return DAC:Mode()
-        elseif _G.AutoCarry_Loaded and DACR:Mode() then
+	elseif _G.AutoCarry_Loaded and DACR:Mode() then
         return DACR:Mode()
-        elseif _G.SLW_Loaded and SLW:Mode() then
+	elseif _G.SLW_Loaded and SLW:Mode() then
         return SLW:Mode()
-    end
+	end
 end
 
 OnTick(function ()
@@ -85,14 +86,13 @@ OnTick(function ()
 	end	
 
 	if Mode() == "Combo" then
-		
 		if GetCurrentMana(myHero) >= config.Combo.ComboEnergyManager:Value() then
 			if config.Combo.Q:Value() and Ready(_Q) and ValidTarget(target, 600) then
-					CastTargetSpell(target, _Q)
+				CastTargetSpell(target, _Q)
         	end
 
         	if GetCurrentMana(myHero) >= config.Combo.ComboEnergyManager:Value() then        
-         		if GetTickCount() > nextAttack then	
+				if GetTickCount() > nextAttack then	
 					if config.Combo.E:Value() and Ready(_E) and ValidTarget(target, 325) then
 						CastSpell(_E)
 					end
@@ -103,7 +103,7 @@ OnTick(function ()
 				if GetTickCount() > nextAttack then	
 					if config.Combo.R:Value() and Ready(_R) and ValidTarget(target, 700) then
 						CastTargetSpell(target, _R)
-                			end
+					end
 				end
 			end	
 	
@@ -122,7 +122,6 @@ OnTick(function ()
 	end
 	
 	if Mode() == "LaneClear" then
-	
 		for _,closeminion in pairs(minionManager.objects) do
 			if GetCurrentMana(myHero) >= config.LaneClear.EnergyManager:Value() then
 				if config.LaneClear.Q:Value() and Ready(_Q) and ValidTarget(closeminion, 600) then
@@ -139,7 +138,6 @@ OnTick(function ()
 	end
 
 	if Mode() == "LastHit" then
-	
 		for _,closeminion in pairs(minionManager.objects) do
 			if GetCurrentMana(myHero) > config.LastHit.LHEnergyManager:Value() then
 				if config.LastHit.QLH:Value() and Ready(_Q) and ValidTarget(closeminion, 600) then
@@ -181,19 +179,19 @@ OnTick(function ()
 	--Killsteal
 	for _, enemy in pairs(GetEnemyHeroes()) do
 		if config.KillSteal.KSQ:Value() and Ready(_Q) and ValidTarget(enemy, 600) then
-			if GetCurrentHP(enemy) < CalcDamage(myHero, enemy, 0, 15 + 20 * GetCastLevel(myHero,_Q) + GetBonusAP(myHero) * 0.4) then
-	           		CastTargetSpell(enemy , _Q)
+			if GetCurrentHP(enemy) < CalcDamage(myHero, enemy, 0, 15 + 20 * GetCastLevel(myHero, _Q) + GetBonusAP(myHero) * 0.4) then
+				CastTargetSpell(enemy , _Q)
 			end
 		end
 	
 		if config.KillSteal.KSR:Value() and Ready(_R) and ValidTarget(enemy, 700) then
-			if GetCurrentHP(enemy) < CalcDamage(myHero, enemy, 0, 25 + 75 * GetCastLevel(myHero,_R) + GetBonusAP(myHero) * 0.5) then
+			if GetCurrentHP(enemy) < CalcDamage(myHero, enemy, 0, 25 + 75 * GetCastLevel(myHero, _R) + GetBonusAP(myHero) * 0.5) then
 				CastTargetSpell(enemy , _R)
 			end
 		end
 	
 		if config.KillSteal.KSE:Value() and Ready(_E) and ValidTarget(enemy, 325) then
-			if GetCurrentHP(enemy) < CalcDamage(myHero, enemy, 0, 5 + 25 * GetCastLevel(myHero,_E) + GetBonusAP(myHero) * 0.4 + (myHero.totalDamage) * 0.6) then
+			if GetCurrentHP(enemy) < CalcDamage(myHero, enemy, 0, 5 + 25 * GetCastLevel(myHero, _E) + GetBonusAP(myHero) * 0.4 + (myHero.totalDamage) * 0.6) then
 				CastSpell(_E)
 			end
 		end
@@ -217,7 +215,7 @@ OnTick(function ()
 	end
 	
 	--Escape
-	if KeyIsDown(71) then 
+	if config.Escape.Key:Value() then
 		MoveToXYZ(GetMousePos())
 		for _,closeminion in pairs(minionManager.objects) do	
 			if config.Escape.ESCR:Value() and Ready(_R) and ValidTarget(closeminion,700) then	
