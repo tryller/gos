@@ -1,7 +1,10 @@
+if GetObjectName(GetMyHero()) ~= "Name" then return end
+
 BlockOrder()
 BlockCast()
 
 ts = TargetSelector(myHero:GetSpellData(_Q).range, TARGET_LOW_HP, DAMAGE_MAGIC, true)
+ts = TargetSelector(myHero:GetSpellData(_W).range, TARGET_LOW_HP, DAMAGE_PHYSICAL, true)
 config:TargetSelector("ts", "Target Selector", ts)
 local target = ts:GetTarget()
 
